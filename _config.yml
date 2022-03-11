@@ -10,16 +10,13 @@ locale                   : "en-US"
 title                    : "Sheng Liu's webpage"
 title_separator          : "-"
 name                     : &name "Sheng Liu"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D. student, Center for Data Science, New York University"
+url                      : https://shengliu66.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "shengliu66/shengliu66.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -57,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Sheng Liu"
-  avatar           : "profile.png"
-  bio              : "PhD student at Center for Data Science NYU"
-  location         : "Location"
+  avatar           : "sheng_profile.png"
+  bio              : "Ph.D. student at Center for Data Science NYU"
+  location         : "New York, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rzhzR-cAAAAJ&hl=en"
@@ -96,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : shengliu66
   google_plus      :
   keybase          :
   instagram        :
@@ -117,11 +114,6 @@ author:
   wikipedia        :
 
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -129,23 +121,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -244,7 +235,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -259,16 +250,16 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
@@ -309,3 +300,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-merlot
