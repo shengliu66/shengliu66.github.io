@@ -4,6 +4,9 @@ main:
     url: /publications/
 
   - title: "Contact"
-    url: /contact/   
+    url: /contact/ 
+
+  - title: "Extracurricular"  
+    url: /extracurricular/
     
 
