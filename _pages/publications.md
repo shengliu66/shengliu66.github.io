@@ -15,10 +15,6 @@ author_profile: true
 <b>Sheng Liu</b>, <b>Aakash Kaku</b>, <b>Weicheng Zhu</b>, <b>Matan Leibovich</b>, <b>Sreyas Mohan</b> (equal contribution), Boyang Yu, Laure Zanna, Narges Razavian, Carlos Fernandez-Granda
 <i>preprint</i>. 
 
-<b>[Deep Probability Estimation]()</b><br>
-Sheng Liu, Aakash Kaku, Weicheng Zhu, Matan Leibovich, Sreyas Mohan, Boyang Yu, Laure Zanna, Narges Razavian, Carlos Fernandez-Granda
-<i>preprint</i>. 
-
 <b>[On Learning Contrastive Representations for Learning with Noisy Labels]()</b><br>
 Li Yi, <b>Sheng Liu</b>, Qi She, A Ian McLeod, Boyu Wang
 <i>2022 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2022</b>.
