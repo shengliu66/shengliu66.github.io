@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Sheng Liu 刘晟"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-<img align="left" src="https://github.com/shengliu66/shengliu66.github.io/blob/master/images/shengliu_img.png?raw=true"  width="300px">
+![myimg](https://github.com/shengliu66/shengliu66.github.io/blob/master/images/shengliu_img.png?raw=true){: width="300px" style="float:left; padding-right:40px" }
 
 # About Me
 * I am a Ph.D. student at the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/). [[Google Scholar Profile](https://scholar.google.com/citations?user=rzhzR-cAAAAJ&hl=en)]
