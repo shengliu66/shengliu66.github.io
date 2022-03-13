@@ -1,9 +1,11 @@
 ---
-layout: archive
-title: "Contact"
-permalink: /contact/
-author_profile: true
+layout: photo_set
+title: Berlin
+permalink: /extracurricular/
+description: "An example photo gallery."
+
+photos:
+    set: berlin
+    size: 3
 ---
-Center for Data Science, NYU<br>
-7th floor, 60 5th Ave, New York, NY<br>
-Email: shengliu [at] nyu.edu
+
