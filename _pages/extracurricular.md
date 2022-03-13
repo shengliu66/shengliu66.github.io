@@ -9,3 +9,6 @@ photos:
     size: 3
 ---
 
+
+<img src="https://github.com/shengliu66/shengliu66.github.io/tree/master/images/photos/berlin-1.jpeg?raw=true" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+
