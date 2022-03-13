@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Sheng Liu"
 description              : &description "Ph.D. student, Center for Data Science, New York University"
 url                      : https://shengliu66.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : https://github.com/shengliu66/shengliu66.github.io/tree/master/ # the subpath of your site, e.g. "/blog"
+baseurl                  : "/tree/master" # the subpath of your site, e.g. "/blog"
 repository               : "shengliu66/shengliu66.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
