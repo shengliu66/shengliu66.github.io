@@ -21,7 +21,8 @@ Li Yi, <b>Sheng Liu</b>, Qi She, A Ian McLeod, Boyu Wang
 
 <b>[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations]()</b><br>
 <b>Sheng Liu</b>, <b>Kangning Liu</b> (equal contribution), Weicheng Zhu, Yiqiu Shen, Carlos Fernandez-Granda
-<i>2022 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2022</b>.
+<i>2022 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2022</b>. <b><span style="color:red">(Oral Presentation)</span></b>
+
 
 <b>[Convolutional normalization: Improving deep convolutional network robustness and training]()</b><br>
 <b>Sheng Liu</b>, <b>Xiao Li</b> (equal contribution), Yuexiang Zhai, Chong You, Zhihui Zhu, Carlos Fernandez-Granda, Qing Qu
