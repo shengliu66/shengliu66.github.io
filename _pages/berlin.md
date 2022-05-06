@@ -1,7 +1,7 @@
 ---
 layout: photo_set
 title: Berlin
-permalink: /extracurricular/
+permalink: /berlin/
 description: "An example photo gallery."
 
 photos:
