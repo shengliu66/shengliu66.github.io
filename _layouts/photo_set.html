@@ -1,17 +1,21 @@
 ---
-layout: default
+layout: page
+titles:
 ---
 
 {% assign num = page.photos.size %}
-
-<h1>{{ page.title }}</h1>
-<ul>
-  {% for i in (1..num) %}
-  <li>
-    <img src="https://github.com/shengliu66/shengliu66.github.io/tree/master/images/photos/{{ page.photos.set }}-{{ i }}.jpeg?raw=true" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
-  </li>
-  {% endfor %}
-</ul>
 <div>
-  <a href="https://github.com/shengliu66/shengliu66.github.io/tree/master/images/photos/">View All Photo Sets</a>
+  <ul>
+    {% for i in (1..num) %}
+    <li>
+      <img
+        src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}-{{ i }}.jpg"
+        alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"
+      />
+    </li>
+    {% endfor %}
+  </ul>
+  <div>
+    <a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
+  </div>
 </div>
