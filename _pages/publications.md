@@ -7,42 +7,42 @@ author_profile: true
 
 <br>
 
-<b>[Robust Training under Label Noise by Over-parameterization]()</b><br>
+<b>[Robust Training under Label Noise by Over-parameterization](https://arxiv.org/abs/2202.14026)</b><br>
 <b>Sheng Liu</b>, Zhihui Zhu, Qing Qu, Chong You
 <i>preprint</i>. 
 
-<b>[Deep Probability Estimation]()</b><br>
+<b>[Deep Probability Estimation](https://arxiv.org/abs/2111.10734)</b><br>
 <b>Sheng Liu</b>, <b>Aakash Kaku</b>, <b>Weicheng Zhu</b>, <b>Matan Leibovich</b>, <b>Sreyas Mohan</b> (equal contribution), Boyang Yu, Laure Zanna, Narges Razavian, Carlos Fernandez-Granda
 <i>preprint</i>. 
 
-<b>[On Learning Contrastive Representations for Learning with Noisy Labels]()</b><br>
+<b>[On Learning Contrastive Representations for Learning with Noisy Labels](https://arxiv.org/abs/2203.01785)</b><br>
 Li Yi, <b>Sheng Liu</b>, Qi She, A Ian McLeod, Boyu Wang
 <i>2022 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2022</b>.
 
-<b>[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations]()</b><br>
+<b>[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/abs/2110.03740)</b><br>
 <b>Sheng Liu</b>, <b>Kangning Liu</b> (equal contribution), Weicheng Zhu, Yiqiu Shen, Carlos Fernandez-Granda
 <i>2022 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2022</b>. <b><span style="color:red">(Oral Presentation)</span></b>
 
 
-<b>[Convolutional normalization: Improving deep convolutional network robustness and training]()</b><br>
+<b>[Convolutional normalization: Improving deep convolutional network robustness and training](https://arxiv.org/abs/2103.00673)</b><br>
 <b>Sheng Liu</b>, <b>Xiao Li</b> (equal contribution), Yuexiang Zhai, Chong You, Zhihui Zhu, Carlos Fernandez-Granda, Qing Qu
 <i>The 35th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2021</b>.
 
-<b>[Development of a Deep Learning Model for Early Alzheime's Disease Detection from Structural MRIs and External Validation on an Independent Cohort]()</b><br>
+<b>[Development of a Deep Learning Model for Early Alzheime's Disease Detection from Structural MRIs and External Validation on an Independent Cohort](https://www.medrxiv.org/content/10.1101/2021.05.28.21257318v1)</b><br>
 <b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>preprint</i>. 
 
-<b>[Early-learning regularization prevents memorization of noisy labels]()</b><br>
+<b>[Early-learning regularization prevents memorization of noisy labels](https://arxiv.org/abs/2007.00151)</b><br>
 <b>Sheng Liu</b>, Jonathan Niles-Weed, Narges Razavian, Carlos Fernandez-Granda. <i>.</i>
 <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
 
-<b>[On the design of convolutional neural networks for automatic detection of Alzheimer’s disease]()</b><br>
+<b>[On the design of convolutional neural networks for automatic detection of Alzheimer’s disease](http://proceedings.mlr.press/v116/liu20a)</b><br>
 <b>Sheng Liu</b>, Chhavi Yadav, Carlos Fernandez-Granda, Narges Razavian
 <i>2019 NeurIPS Machine Learning for Health Workshop.</i> <b>NeurIPS 2019</b>. <b><span style="color:red">(Best Paper Award Honorable Mention)</span></b>
 
-<b>[Sparse recovery beyond compressed sensing: Separable nonlinear inverse problems]()</b><br>
+<b>[Sparse recovery beyond compressed sensing: Separable nonlinear inverse problems](https://arxiv.org/abs/1905.04627?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)</b><br>
 Brett Bernstein, <b>Sheng Liu</b>, Chrysa Papadaniil, Carlos Fernandez-Granda.
 <i>IEEE transactions on information theory.</i>
 
-<b>[Time-Series Analysis via Low-Rank Matrix Factorization Applied to Infant-Sleep Data]()</b> <br>
+<b>[Time-Series Analysis via Low-Rank Matrix Factorization Applied to Infant-Sleep Data](https://cims.nyu.edu/~sl5924/infant.html)</b> <br>
 <b>Sheng Liu</b>, Mark Cheng, Hayley Brooks, Wayne Mackey, David J Heeger, Esteban G Tabak, Carlos Fernandez-Granda
 <i>NeurIPS 2019 workshop on machine learning for healthcare</i>. <b>NeurIPS 2019</b>.
