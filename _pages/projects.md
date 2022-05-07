@@ -38,7 +38,7 @@ Normalization techniques have become a basic component in modern convolutional n
 
 <p float="left" align="center">
 <img
-    src="{{ site.baseurl }}/images/ConvNorm.pdf"
+    src="{{ site.baseurl }}/images/ConvNorm.jpg"
     alt="ConvNorm"
     width="400"
 >
