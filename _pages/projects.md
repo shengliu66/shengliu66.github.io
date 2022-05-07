@@ -37,7 +37,7 @@ Early diagnosis of Alzheimer’s disease plays a pivotal role in patient care an
 <img
     src="{{ site.baseurl }}/images/AD_all_slices.gif"
     alt="Feature Importance of Deep Learning model"
-    width="300"
+    width="400"
 >
 <figcaption align="center">
 Visualization of the aggregated importance of each voxel (in yellow) in the deep learning model when classifying subjects into Cognitive Normal, Mild Cognitive Impairement, and Alzheimer's Disease.
