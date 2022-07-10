@@ -9,11 +9,11 @@ author_profile: true
 
 <b>[Robust Training under Label Noise by Over-parameterization](https://arxiv.org/abs/2202.14026)</b><br>
 <b>Sheng Liu</b>, Zhihui Zhu, Qing Qu, Chong You
-<i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. 
+<i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. <b><span style="color:red">(Spotlight Presentation)</span></b>
 
 <b>[Deep Probability Estimation](https://arxiv.org/abs/2111.10734)</b><br>
 <b>Sheng Liu</b>, <b>Aakash Kaku</b>, <b>Weicheng Zhu</b>, <b>Matan Leibovich</b>, <b>Sreyas Mohan</b> (equal contribution), Boyang Yu, Laure Zanna, Narges Razavian, Carlos Fernandez-Granda
-<i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. 
+<i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. <b><span style="color:red">(Spotlight Presentation)</span></b> 
 
 <b>[On Learning Contrastive Representations for Learning with Noisy Labels](https://arxiv.org/abs/2203.01785)</b><br>
 Li Yi, <b>Sheng Liu</b>, Qi She, A Ian McLeod, Boyu Wang
