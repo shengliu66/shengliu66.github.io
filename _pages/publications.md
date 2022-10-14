@@ -10,6 +10,9 @@ author_profile: true
 Jinxin Zhou, Chong You, Xiao Li, Kangning Liu, <b>Sheng Liu</b>, Qing Qu, Zhihui Zhu
 <i>The 39th International Conference on Machine Learning</i>. <b>NeurIPS 2022</b>.
 
+<b>[Development of a Deep Learning Model for Early Alzheime's Disease Detection from Structural MRIs and External Validation on an Independent Cohort](https://www.medrxiv.org/content/10.1101/2021.05.28.21257318v1)</b><br>
+<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>Nature Scientific Reports</i>. 
+
 <b>[Robust Training under Label Noise by Over-parameterization](https://arxiv.org/abs/2202.14026)</b><br>
 <b>Sheng Liu</b>, Zhihui Zhu, Qing Qu, Chong You
 <i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. <b><span style="color:red">(Spotlight Presentation)</span></b>
@@ -31,8 +34,6 @@ Li Yi, <b>Sheng Liu</b>, Qi She, A Ian McLeod, Boyu Wang
 <b>Sheng Liu</b>, <b>Xiao Li</b> (equal contribution), Yuexiang Zhai, Chong You, Zhihui Zhu, Carlos Fernandez-Granda, Qing Qu
 <i>The 35th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2021</b>.
 
-<b>[Development of a Deep Learning Model for Early Alzheime's Disease Detection from Structural MRIs and External Validation on an Independent Cohort](https://www.medrxiv.org/content/10.1101/2021.05.28.21257318v1)</b><br>
-<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>preprint</i>. 
 
 <b>[Early-learning regularization prevents memorization of noisy labels](https://arxiv.org/abs/2007.00151)</b><br>
 <b>Sheng Liu</b>, Jonathan Niles-Weed, Narges Razavian, Carlos Fernandez-Granda. <i>.</i>
