@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Multiple Instance Learning via Iterative Self-Paced Supervised Contrastive Learning](https://arxiv.org/abs/2210.09452)</b><br>
+Kangning Liu, Weicheng Zhu, Yiqiu Shen, <b>Sheng Liu</b>, Narges Razavian, Krzysztof J. Geras, Carlos Fernandez-Granda
+<i>preprint</i>. 
+
 
 <b>[Are All Losses Created Equal: A Neural Collapse Perspective](https://arxiv.org/abs/2210.02192)</b><br>
 Jinxin Zhou, Chong You, Xiao Li, Kangning Liu, <b>Sheng Liu</b>, Qing Qu, Zhihui Zhu
