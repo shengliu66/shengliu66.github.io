@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Generalizable deep learning model for early Alzheimer’s disease detection from structural MRIs](https://www.nature.com/articles/s41598-022-20674-x)</b><br>
+<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>Nature Scientific Reports</i>. 
+
 <b>[Multiple Instance Learning via Iterative Self-Paced Supervised Contrastive Learning](https://arxiv.org/abs/2210.09452)</b><br>
 Kangning Liu, Weicheng Zhu, Yiqiu Shen, <b>Sheng Liu</b>, Narges Razavian, Krzysztof J. Geras, Carlos Fernandez-Granda
 <i>preprint</i>. 
@@ -13,8 +16,6 @@ Kangning Liu, Weicheng Zhu, Yiqiu Shen, <b>Sheng Liu</b>, Narges Razavian, Krzys
 Jinxin Zhou, Chong You, Xiao Li, Kangning Liu, <b>Sheng Liu</b>, Qing Qu, Zhihui Zhu
 <i>The 39th International Conference on Machine Learning</i>. <b>NeurIPS 2022</b>.
 
-<b>[Development of a Deep Learning Model for Early Alzheime's Disease Detection from Structural MRIs and External Validation on an Independent Cohort](https://www.medrxiv.org/content/10.1101/2021.05.28.21257318v1)</b><br>
-<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>Nature Scientific Reports</i>. 
 
 <b>[Robust Training under Label Noise by Over-parameterization](https://arxiv.org/abs/2202.14026)</b><br>
 <b>Sheng Liu</b>, Zhihui Zhu, Qing Qu, Chong You
@@ -32,6 +33,8 @@ Li Yi, <b>Sheng Liu</b>, Qi She, A Ian McLeod, Boyu Wang
 <b>Sheng Liu</b>, <b>Kangning Liu</b> (equal contribution), Weicheng Zhu, Yiqiu Shen, Carlos Fernandez-Granda
 <i>2022 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2022</b>. <b><span style="color:red">(Oral Presentation)</span></b>
 
+<b>[Development of a Deep Learning Model for Early Alzheime's Disease Detection from Structural MRIs and External Validation on an Independent Cohort](https://www.medrxiv.org/content/10.1101/2021.05.28.21257318v1)</b><br>
+<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>preprint</i>. 
 
 <b>[Convolutional normalization: Improving deep convolutional network robustness and training](https://arxiv.org/abs/2103.00673)</b><br>
 <b>Sheng Liu</b>, <b>Xiao Li</b> (equal contribution), Yuexiang Zhai, Chong You, Zhihui Zhu, Carlos Fernandez-Granda, Qing Qu
@@ -53,3 +56,5 @@ Brett Bernstein, <b>Sheng Liu</b>, Chrysa Papadaniil, Carlos Fernandez-Granda.
 <b>[Time-Series Analysis via Low-Rank Matrix Factorization Applied to Infant-Sleep Data](https://cims.nyu.edu/~sl5924/infant.html)</b> <br>
 <b>Sheng Liu</b>, Mark Cheng, Hayley Brooks, Wayne Mackey, David J Heeger, Esteban G Tabak, Carlos Fernandez-Granda
 <i>NeurIPS 2019 workshop on machine learning for healthcare</i>. <b>NeurIPS 2019</b>.
+
+
