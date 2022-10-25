@@ -20,7 +20,7 @@ redirect_from:
 
 # Academic Services
 * Conference Reviewer: NeurIPS 2020, ICLR 2021, ICML 2021, NeurIPS 2021, ICLR 2022, ICML 2022.
-* Journal Reviewer: Journal of Machine Learning Research (JMLR), Transactions of Machine Learning Research (TMLR).
+* Journal Reviewer: Journal of Machine Learning Research (JMLR), Transactions of Machine Learning Research (TMLR), Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 
 
