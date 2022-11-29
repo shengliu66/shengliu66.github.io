@@ -13,7 +13,7 @@ redirect_from:
 # About Me        
 * I am a Ph.D. student in the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/).
 
-* My research interests lie in general area of machine learning, particularly in robust deep learning with imperfect datasets (corrupted data, limited supervision, small data, etc.) as well as their applications in medicine such as Alzheimer's automatic detection. I am also a member of the Math and Data (MAD) group at NYU where I work on inverse problems and optimization. Out of school, I love playing tennis, scuba diving, surfing and any water sports.
+* My research interests lie in general area of machine learning, particularly in robust deep learning with imperfect datasets (corrupted data, limited supervision, small data, etc.) as well as their applications in medicine such as Alzheimer's automatic detection. I am also a member of the Math and Data (MAD) group at NYU where I work on inverse problems and optimization. Out of school, I love playing tennis, scuba diving, surfing and any water sports. I will be graduating next Summer, and currently actively looking for postdoc positions! Please check out more information from my [CV](https://shengliu66.github.io/files/ShengLiu-CV.pdf) and [research statement](https://shengliu66.github.io/files/ShengLiu-Research_Statement.pdf) 
 
 
 <br clear="left"/>
