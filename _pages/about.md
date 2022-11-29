@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![myimg](https://github.com/shengliu66/shengliu66.github.io/blob/master/images/shengliu_img.png?raw=true){: width="350px" style="float:left; padding-right:40px" }
+![myimg](https://github.com/shengliu66/shengliu66.github.io/blob/master/images/photo_sheng2.png?raw=true){: width="350px" style="float:left; padding-right:40px" }
 
 # About Me        
 * I am a Ph.D. student in the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/).
