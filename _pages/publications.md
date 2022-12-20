@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>[Avoiding spurious correlations via logit correction](https://arxiv.org/abs/2212.01433)</b><br>
+<b>Sheng Liu</b>, Xu Zhang, Nitesh Sekhar, Yue Wu, Prateek Singhal, Carlos Fernandez-Granda, preprint 2022.
+
+<b>[PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels](https://arxiv.org/abs/2212.03462)</b><br>
+Huaxi Huang, Hui Kang, <b>Sheng Liu</b>, Olivier Salvado, Thierry Rakotoarivelo, Dadong Wang, Tongliang Liu, preprint 2022.
 
 <b>[Generalizable deep learning model for early Alzheimer’s disease detection from structural MRIs](https://www.nature.com/articles/s41598-022-20674-x)</b><br>
 <b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>Nature Scientific Reports</i>. 
