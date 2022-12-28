@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>[Principled and Efficient Transfer Learning of Deep Models via Neural Collapse](https://arxiv.org/abs/2212.12206)</b><br>
+<b>Xiao Li</b>, <b>Sheng Liu</b>, Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, Qing Qu, preprint 2022.
+
+
 <b>[Avoiding spurious correlations via logit correction](https://arxiv.org/abs/2212.01433)</b><br>
 <b>Sheng Liu</b>, Xu Zhang, Nitesh Sekhar, Yue Wu, Prateek Singhal, Carlos Fernandez-Granda, preprint 2022.
 
