@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## [Avoiding spurious correlations via logit correction](https://arxiv.org/abs/2212.01433)
+## [Avoiding Spurious Correlations via Logit Correction](https://arxiv.org/abs/2212.01433)
 
 We propose the logit correction (LC) loss, a simple yet effective improvement on the softmax cross-entropy loss, to correct the sample logit. We demonstrate that minimizing the LC loss is equivalent to maximizing the group-balanced accuracy, so the proposed LC could mitigate the negative impacts of spurious correlations.
 
