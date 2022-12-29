@@ -13,7 +13,7 @@ author_profile: true
 We propose the logit correction (LC) loss, a simple yet effective improvement on the softmax cross-entropy loss, to correct the sample logit. We demonstrate that minimizing the LC loss is equivalent to maximizing the group-balanced accuracy, so the proposed LC could mitigate the negative impacts of spurious correlations.
 
 <p float="left" align="center">
-<img src="{{ site.baseurl }}/images/two-branch.png" width="500" /> 
+<img src="{{ site.baseurl }}/images/two-branch.png" width="700" /> 
 <figcaption align="center">
 The overview of our proposed logit correction approach on the
 Waterbirds dataset, where the background (water/land) is spuriously correlated with the foreground (waterbird/landbird). Most training samples belong to the group where the background matches the bird type (highlighted in red); While only a small fraction belongs to the groups where the background mismatches the bird type (highlighted in green). 
@@ -30,7 +30,7 @@ Reliable probability estimation is of crucial importance in many real-world appl
 networks.
 
 <p float="left" align="center">
-<img src="{{ site.baseurl }}/images/DPE.png" width="500" /> 
+<img src="{{ site.baseurl }}/images/DPE.png" width="700" /> 
 <figcaption align="center">
 The probability-estimation problem. In probability estimation, we assume that each observed outcome <img src="https://latex.codecogs.com/gif.latex?y_i" /> (e.g. death or survival in cancer patients) in the training set is randomly generated from a latent unobserved probability <img src="https://latex.codecogs.com/gif.latex?p_i" /> associated to the corresponding data <img src="https://latex.codecogs.com/gif.latex?x_i" /> (e.g. histopathology images).Training (left): Only <img src="https://latex.codecogs.com/gif.latex?x_i" /> and <img src="https://latex.codecogs.com/gif.latex?y_i" /> can be used for training, because <img src="https://latex.codecogs.com/gif.latex?p_i" /> is not observed. Inference (right): Given new data <img src="https://latex.codecogs.com/gif.latex?x" />, the trained network <img src="https://latex.codecogs.com/gif.latex?f" /> produces a probability estimate <img src="https://latex.codecogs.com/gif.latex?\hat{p}" /> in [0,1].
 </figcaption>
