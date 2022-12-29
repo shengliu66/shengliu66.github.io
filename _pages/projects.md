@@ -7,6 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
+
+## Avoiding spurious correlations via logit correction
+
+We propose the logit correction (LC) loss, a simple yet effective improvement on the softmax cross-entropy loss, to correct the sample logit. We demonstrate that minimizing the LC loss is equivalent to maximizing the group-balanced accuracy, so the proposed LC could mitigate the negative impacts of spurious correlations.
+
+<p float="left" align="center">
+<img src="{{ site.baseurl }}/images/two-branch.png" width="500" /> 
+<figcaption align="center">
+The overview of our proposed logit correction approach on the
+Waterbirds dataset, where the background (water/land) is spuriously correlated with the foreground (waterbird/landbird). Most training samples belong to the group where the background matches the bird type (highlighted in red); While only a small fraction belongs to the groups where the background mismatches the bird type (highlighted in green). 
+The ERM network and the robust network are trained simultaneously. The ERM network is trained with a generalized cross-entropy (GCE) loss to be intentionally biased toward the majority group. The logit correction loss corrects the logits of the robust network by a term $\hat{p}$ which is produced by the predictions of the ERM network. The robust network is trained with the standard cross entropy loss after logit correction.
+</figcaption>
+</p>
+
+
+
 ## Deep Probability Estimation
 <b> ICML 2022 </b>
 
