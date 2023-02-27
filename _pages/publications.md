@@ -9,7 +9,8 @@ author_profile: true
 
 
 <b>[Avoiding spurious correlations via logit correction](https://arxiv.org/abs/2212.01433)</b><br>
-<b>Sheng Liu</b>, Xu Zhang, Nitesh Sekhar, Yue Wu, Prateek Singhal, Carlos Fernandez-Granda, preprint 2022.
+<b>Sheng Liu</b>, Xu Zhang, Nitesh Sekhar, Yue Wu, Prateek Singhal, Carlos Fernandez-Granda
+<i>The 11th International Conference on Learning Representations</i>. <b>ICLR 2023</b>.
 
 <b>[PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels](https://arxiv.org/abs/2212.03462)</b><br>
 Huaxi Huang, Hui Kang, <b>Sheng Liu</b>, Olivier Salvado, Thierry Rakotoarivelo, Dadong Wang, Tongliang Liu, preprint 2022.
@@ -19,7 +20,7 @@ Huaxi Huang, Hui Kang, <b>Sheng Liu</b>, Olivier Salvado, Thierry Rakotoarivelo,
 
 <b>[Multiple Instance Learning via Iterative Self-Paced Supervised Contrastive Learning](https://arxiv.org/abs/2210.09452)</b><br>
 Kangning Liu, Weicheng Zhu, Yiqiu Shen, <b>Sheng Liu</b>, Narges Razavian, Krzysztof J. Geras, Carlos Fernandez-Granda
-<i>preprint</i>. 
+<i>2023 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2023</b>.
 
 <b>[Are All Losses Created Equal: A Neural Collapse Perspective](https://arxiv.org/abs/2210.02192)</b><br>
 Jinxin Zhou, Chong You, Xiao Li, Kangning Liu, <b>Sheng Liu</b>, Qing Qu, Zhihui Zhu
