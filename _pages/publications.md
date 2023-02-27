@@ -20,7 +20,7 @@ Kangning Liu, Weicheng Zhu, Yiqiu Shen, <b>Sheng Liu</b>, Narges Razavian, Krzys
 <i>2023 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2023</b>.
 
 <b>[Generalizable deep learning model for early Alzheimer’s disease detection from structural MRIs](https://www.nature.com/articles/s41598-022-20674-x)</b><br>
-<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>Nature Scientific Reports 2022</i>. 
+<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <b>Nature Scientific Reports 2022</b>. 
 
 <b>[Are All Losses Created Equal: A Neural Collapse Perspective](https://arxiv.org/abs/2210.02192)</b><br>
 Jinxin Zhou, Chong You, Xiao Li, Kangning Liu, <b>Sheng Liu</b>, Qing Qu, Zhihui Zhu
