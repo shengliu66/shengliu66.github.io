@@ -5,27 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Principled and Efficient Transfer Learning of Deep Models via Neural Collapse](https://arxiv.org/abs/2212.12206)</b><br>
-<b>Xiao Li</b>, <b>Sheng Liu</b>, Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, Qing Qu, preprint 2022.
+<b>Xiao Li</b>, <b>Sheng Liu</b>, Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, Qing Qu, preprint 2023.
+
+<b>[PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels](https://arxiv.org/abs/2212.03462)</b><br>
+Huaxi Huang, Hui Kang, <b>Sheng Liu</b>, Olivier Salvado, Thierry Rakotoarivelo, Dadong Wang, Tongliang Liu, preprint 2023.
 
 
 <b>[Avoiding spurious correlations via logit correction](https://arxiv.org/abs/2212.01433)</b><br>
 <b>Sheng Liu</b>, Xu Zhang, Nitesh Sekhar, Yue Wu, Prateek Singhal, Carlos Fernandez-Granda
 <i>The 11th International Conference on Learning Representations</i>. <b>ICLR 2023</b>.
 
-<b>[PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels](https://arxiv.org/abs/2212.03462)</b><br>
-Huaxi Huang, Hui Kang, <b>Sheng Liu</b>, Olivier Salvado, Thierry Rakotoarivelo, Dadong Wang, Tongliang Liu, preprint 2022.
-
-<b>[Generalizable deep learning model for early Alzheimer’s disease detection from structural MRIs](https://www.nature.com/articles/s41598-022-20674-x)</b><br>
-<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>Nature Scientific Reports</i>. 
-
 <b>[Multiple Instance Learning via Iterative Self-Paced Supervised Contrastive Learning](https://arxiv.org/abs/2210.09452)</b><br>
 Kangning Liu, Weicheng Zhu, Yiqiu Shen, <b>Sheng Liu</b>, Narges Razavian, Krzysztof J. Geras, Carlos Fernandez-Granda
 <i>2023 Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2023</b>.
 
+<b>[Generalizable deep learning model for early Alzheimer’s disease detection from structural MRIs](https://www.nature.com/articles/s41598-022-20674-x)</b><br>
+<b>Sheng Liu</b>, Arjun Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian. <i>Nature Scientific Reports 2022</i>. 
+
 <b>[Are All Losses Created Equal: A Neural Collapse Perspective](https://arxiv.org/abs/2210.02192)</b><br>
 Jinxin Zhou, Chong You, Xiao Li, Kangning Liu, <b>Sheng Liu</b>, Qing Qu, Zhihui Zhu
 <i>The 39th International Conference on Machine Learning</i>. <b>NeurIPS 2022</b>.
-
 
 <b>[Robust Training under Label Noise by Over-parameterization](https://arxiv.org/abs/2202.14026)</b><br>
 <b>Sheng Liu</b>, Zhihui Zhu, Qing Qu, Chong You
