@@ -17,6 +17,8 @@ redirect_from:
 
 * Check out more information from my [CV](https://shengliu66.github.io/files/ShengLiu-CV.pdf) and [research statement](https://shengliu66.github.io/files/ShengLiu-Research_Statement.pdf) 
 
+Start from this summer, I will be at Stanford University as a postdoctoral research fellow co-advised by Prof. [James Zou](https://www.james-zou.com/) and Prof. [Lei Xing](https://profiles.stanford.edu/lei-xing)
+
 * Pronouns: he/him/his
 
 <br clear="left"/>
