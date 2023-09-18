@@ -11,15 +11,14 @@ redirect_from:
 ![myimg](https://github.com/shengliu66/shengliu66.github.io/blob/master/images/photo_sheng2.png?raw=true){: width="350px" style="float:left; padding-right:40px" }
 
 # About Me        
-* I am a Ph.D. student in the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/).
+* I am a Postdoctoral Researcher at Stanford University. I obtained my PhD in Data Science at [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/).
 
-* My research interests lie in general area of machine learning, particularly in robust deep learning with imperfect datasets (corrupted data, limited supervision, small data, etc.) as well as their applications in medicine such as Alzheimer's automatic detection. I am also a member of the Math and Data (MAD) group at NYU where I work on inverse problems and optimization. Out of school, I love playing tennis, scuba diving, surfing and any water sports. 
+* My research interests lie in general area of machine learning, particularly in large language model, robust learning with imperfect datasets (corrupted data, limited supervision, small data, etc.) as well as their applications in medicine and biology. When I was at NYU, I was a member of the Math and Data (MAD) group where I worked on inverse problems and optimization. I love playing tennis, scuba diving, surfing and any water sports. 
 
 * Check out more information from my [CV](https://shengliu66.github.io/files/ShengLiu-CV.pdf) and [research statement](https://shengliu66.github.io/files/ShengLiu-Research_Statement.pdf) 
 
 * I defended my PhD and graduated from NYU this summer! (Thanks Carlos, Kyunghyun, Mengye, Narges, Jonathan, and Qing!)
 ![defense](https://github.com/shengliu66/shengliu66.github.io/blob/master/images/defense.JPG?raw=true){: width="350px" style="float:left; padding-right:40px" }
-
 
 
 * I am now at Stanford University as a postdoctoral research fellow co-advised by Prof. [James Zou](https://www.james-zou.com/) and Prof. [Lei Xing](https://profiles.stanford.edu/lei-xing).
