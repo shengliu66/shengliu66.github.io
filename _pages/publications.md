@@ -8,7 +8,7 @@ author_profile: true
 <b>Xiao Li</b>, <b>Sheng Liu</b>, Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, Qing Qu, preprint 2023.
 
 <b>[PADDLES: Phase-Amplitude Spectrum Disentangled Early Stopping for Learning with Noisy Labels](https://arxiv.org/abs/2212.03462)</b><br>
-Huaxi Huang, Hui Kang, <b>Sheng Liu</b>, Olivier Salvado, Thierry Rakotoarivelo, Dadong Wang, Tongliang Liu, preprint 2023.
+Huaxi Huang, Hui Kang, <b>Sheng Liu</b>, Olivier Salvado, Thierry Rakotoarivelo, Dadong Wang, Tongliang Liu, <i>2023 International Conference on Computer Vision</i>. <b>ICCV 2023</b>.
 
 
 <b>[Avoiding spurious correlations via logit correction](https://arxiv.org/abs/2212.01433)</b><br>
