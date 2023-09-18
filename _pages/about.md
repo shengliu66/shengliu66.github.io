@@ -13,7 +13,7 @@ redirect_from:
 # About Me        
 * I am a Postdoctoral Researcher at Stanford University. I obtained my PhD in Data Science at [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/).
 
-* My research interests lie in general area of machine learning, particularly in large language model, robust learning with imperfect datasets (corrupted data, limited supervision, small data, etc.) as well as their applications in medicine and biology. When I was at NYU, I was a member of the Math and Data (MAD) group where I worked on inverse problems and optimization. I love playing tennis, scuba diving, surfing and any water sports. 
+* My research interests lie in general area of machine learning, particularly in large language model, multi-modal foundation models, learning with imperfect datasets (corrupted data, limited supervision, small data, etc.) as well as their applications in medicine and biology. When I was at NYU, I was a member of the Math and Data (MAD) group where I worked on inverse problems and optimization. I love playing tennis, scuba diving, surfing and any water sports. 
 
 * Check out more information from my [CV](https://shengliu66.github.io/files/ShengLiu-CV.pdf) and [research statement](https://shengliu66.github.io/files/ShengLiu-Research_Statement.pdf) 
 
