@@ -1,16 +1,16 @@
 "use client";
 
 import { useState, useEffect } from 'react';
-import { Card } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+// import { Card } from "@/components/ui/card";
+// import { Button } from "@/components/ui/button";
 import { Mail, Github, Twitter, BookOpen } from 'lucide-react';
 
 export default function Home() {
-  const [textgradStars, setTextgradStars] = useState(null);
-  const [octotoolsStars, setOctotoolsStars] = useState(null);
+  const [textgradStars, setTextgradStars] = useState<number | string | null>(null);
+  const [octotoolsStars, setOctotoolsStars] = useState<number | string | null>(null);
 
   useEffect(() => {
-    async function fetchStars(repo, setStars) {
+    async function fetchStars(repo: string, setStars: (count: number | string) => void) {
       const response = await fetch(`https://api.github.com/repos/${repo}`);
       const data = await response.json();
       const starCount = data.stargazers_count;
@@ -67,7 +67,7 @@ export default function Home() {
           Hi! I am a Postdoctoral Researcher at Stanford University, working with Prof. James Zou and Prof. Lei Xing. I received my PhD in Data Science at Center for Data Science at New York University.  
           <br />
           <br />
-          My research focuses on enhancing the reliability of machine learning models and AI agents. My work spans areas such as robustness, multimodality, and uncertainty in AI, and its application to medicine (e.g. Alzheimer's disease, cancer, etc.). Outside of academia, I love playing tennis and is a certified scuba diver and surfer.
+          My research focuses on enhancing the reliability of machine learning models and AI agents. My work spans areas such as robustness, multimodality, and uncertainty in AI, and its application to medicine (e.g. Alzheimers disease, cancer, etc.). Outside of academia, I love playing tennis, I am also a certified scuba diver and surfer.
         </p>
 
           {/* Research Interests Section */}
