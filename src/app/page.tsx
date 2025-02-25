@@ -6,11 +6,11 @@ import { Button } from "@/components/ui/button";
 import { Mail, Github, Twitter, BookOpen } from 'lucide-react';
 
 export default function Home() {
-  const [textgradStars, setTextgradStars] = useState(null);
-  const [octotoolsStars, setOctotoolsStars] = useState(null);
+  const [textgradStars, setTextgradStars] = useState<string | number>(0);
+  const [octotoolsStars, setOctotoolsStars] = useState<string | number>(0);
 
   useEffect(() => {
-    async function fetchStars(repo, setStars) {
+    async function fetchStars(repo: string, setStars: (stars: number) => void)  {
       const response = await fetch(`https://api.github.com/repos/${repo}`);
       const data = await response.json();
       const starCount = data.stargazers_count;
@@ -67,7 +67,7 @@ export default function Home() {
           Hi! I am a Postdoctoral Researcher at Stanford University, working with Prof. James Zou and Prof. Lei Xing. I received my PhD in Data Science at Center for Data Science at New York University.  
           <br />
           <br />
-          My research focuses on enhancing the reliability of machine learning models and AI agents. My work spans areas such as robustness, multimodality, and uncertainty in AI, and its application to medicine (e.g. Alzheimer's disease, cancer, etc.). Outside of academia, I love playing tennis and is a certified scuba diver and surfer.
+          My research focuses on enhancing the reliability of machine learning models and AI agents. My work spans areas such as robustness, multimodality, and uncertainty in AI, and its application to medicine (e.g. Alzheimer's disease, cancer, etc.). Outside of academia, I love playing tennis. I am also a certified scuba diver (AOW) and surfer.
         </p>
 
           {/* Research Interests Section */}
@@ -519,7 +519,7 @@ export default function Home() {
           <div className="lg:w-1/2">
             <h4 className="text-xl font-bold text-[#820000] mb-3">3. AI for medicine</h4>
             <p className="leading-relaxed text-[#333333] mb-4">
-            Medicine presents high-stakes, complex challenges where accuracy and reliability are paramount. We develop AI models to support clinical decision-making in areas such as radiation oncology and Alzheimer’s disease, aiming to improve treatment planning, diagnosis, and patient outcomes. Our work integrates domain knowledge with advanced machine learning techniques to ensure safe, effective, and trustworthy AI solutions for real-world medical applications.
+            Medicine presents high-stakes, complex challenges where accuracy and reliability are paramount. We develop AI models to support clinical decision-making in areas such as radiation oncology and Alzheimer's disease, aiming to improve treatment planning, diagnosis, and patient outcomes. Our work integrates domain knowledge with advanced machine learning techniques to ensure safe, effective, and trustworthy AI solutions for real-world medical applications.
             </p>
           </div>
 
@@ -541,7 +541,7 @@ export default function Home() {
             </ul>
 
             <p className="font-semibold gap-4 mt-3">
-            Generalizable deep learning model for early Alzheimer’s disease detection from structural MRIs
+            Generalizable deep learning model for early Alzheimer's disease detection from structural MRIs
             </p>
             <p className="mt-1 text-sm">
               <span className="font-bold">Sheng Liu</span>, Arjun V Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian
