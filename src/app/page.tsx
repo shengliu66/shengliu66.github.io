@@ -26,7 +26,7 @@ export default function Home() {
       <nav className="w-full flex justify-between items-center px-8 py-4 bg-white shadow-md sticky top-0 z-50">
         <div className="flex items-center space-x-3">
           <img src="/profile.jpg" alt="Sheng Liu" className="h-10 w-10 rounded-full" />
-          <h1 className="text-2xl font-semibold" style={{ fontFamily: 'Arial, sans-serif' }}>Sheng Liu</h1>
+          <h1 className="text-2xl font-semibold text-[#820000]" style={{ fontFamily: 'Arial, sans-serif' }}>Sheng Liu</h1>
         </div>
         <div className="space-x-6 text-lg" style={{ fontFamily: 'Arial, sans-serif' }}>
           <a href="#home" className="hover:text-[#820000] transition">Home</a>
@@ -36,48 +36,48 @@ export default function Home() {
       </nav>
 
       {/* Main Section */}
-      <section id="home" className="flex flex-col lg:flex-row items-center justify-center py-16 px-6 lg:px-24 bg-white shadow rounded-2xl mx-4 lg:mx-24 mt-8">
-        <img src="/profile.jpg" alt="Sheng Liu" className="w-65 h-65 rounded-2xl shadow-lg mb-8 lg:mb-0 lg:mr-12 relative -left-16 -top-10" />
-        <div className="max-w-2xl">
-          <h2 className="text-5xl font-semibold mb-4 text-[#820000]" style={{ fontFamily: 'GeistVF, sans-serif' }}>Sheng Liu, PhD</h2>
-          <div className="flex items-center space-x-6 text-lg text-[#333333]" style={{ fontFamily: 'GeistVF, sans-serif'}}>
-          <div className="flex items-center space-x-2">
-            <Mail className="h-5 w-5 text-[#820000]" />
-            <a href="mailto:shengl@stanford.edu" className="hover:text-[#555555]">shengl@stanford.edu</a>
-          </div>
+      <section id="home" className="flex flex-col lg:flex-row items-center justify-center py-16 px-4 lg:px-24 bg-white shadow rounded-2xl mx-2 lg:mx-24 mt-8 overflow-hidden">
+        <img src="/profile.jpg" alt="Sheng Liu" className="w-60 h-60 lg:w-80 lg:h-80 rounded-2xl shadow-lg mb-8 lg:mb-0 lg:mr-12 relative lg:-left-16 lg:-top-10" />
+        <div className="max-w-full lg:max-w-2xl">
+          <h2 className="text-4xl lg:text-5xl font-semibold mb-4 text-[#820000]" style={{ fontFamily: 'GeistVF, sans-serif' }}>Sheng Liu, PhD</h2>
+          <div className="flex flex-col lg:flex-row items-start lg:items-center space-y-4 lg:space-y-0 lg:space-x-6 text-lg text-[#333333]" style={{ fontFamily: 'GeistVF, sans-serif'}}>
+            <div className="flex items-center space-x-2">
+              <Mail className="h-5 w-5 text-[#820000]" />
+              <a href="mailto:shengl@stanford.edu" className="hover:text-[#555555]">shengl@stanford.edu</a>
+            </div>
 
-          <div className="flex items-center space-x-2">
-            <Github className="h-5 w-5 text-[#820000]" />
-            <a href="https://github.com/shengliu66" className="hover:text-[#555555]">GitHub</a>
-          </div>
+            <div className="flex items-center space-x-2">
+              <Github className="h-5 w-5 text-[#820000]" />
+              <a href="https://github.com/shengliu66" className="hover:text-[#555555]">GitHub</a>
+            </div>
 
-          <div className="flex items-center space-x-2">
-            <Twitter className="h-5 w-5 text-[#820000]" />
-            <a href="https://x.com/shengliu_?mx=2" className="hover:text-[#555555]">Twitter</a>
-          </div>
+            <div className="flex items-center space-x-2">
+              <Twitter className="h-5 w-5 text-[#820000]" />
+              <a href="https://x.com/shengliu_?mx=2" className="hover:text-[#555555]">Twitter</a>
+            </div>
 
-          <div className="flex items-center space-x-2">
-            <BookOpen className="h-5 w-5 text-[#820000]" />
-            <a href="https://scholar.google.es/citations?user=rzhzR-cAAAAJ&hl=en" className="hover:text-[#555555]">Google Scholar</a>
+            <div className="flex items-center space-x-2">
+              <BookOpen className="h-5 w-5 text-[#820000]" />
+              <a href="https://scholar.google.es/citations?user=rzhzR-cAAAAJ&hl=en" className="hover:text-[#555555]">Google Scholar</a>
+            </div>
           </div>
-        </div>
-        <br/>
+          <br/>
 
-        <p className="text-lg leading-relaxed" style={{ fontFamily: 'GeistMonoVF, monospace' }}>
-          Hi! I am a Postdoctoral Researcher at Stanford University, working with Prof. James Zou and Prof. Lei Xing. I received my PhD in Data Science at Center for Data Science at New York University.  
-          <br />
-          <br />
-          My research focuses on enhancing the reliability of machine learning models and AI agents. My work spans areas such as robustness, multimodality, and uncertainty in AI, and its application to medicine (e.g. Alzheimers disease, cancer, etc.). Outside of academia, I love playing tennis, I am also a certified scuba diver and surfer.
-        </p>
+          <p className="text-base lg:text-lg leading-relaxed" style={{ fontFamily: 'GeistMonoVF, monospace', overflowWrap: 'break-word' }}>
+            Hi! I am a Postdoctoral Researcher at Stanford University, working with Prof. James Zou and Prof. Lei Xing. I earned my PhD in Data Science from New York University.   
+            <br />
+            <br />
+            My research focuses on improving the reliability of machine learning models and AI agents, with an emphasis on robustness, multimodality, and uncertainty, particularly in medical applications such as Alzheimer's disease and cancer. My work has been published in leading journals, including Nature, and has received oral and spotlight presentations at top conferences such as CVPR, NeurIPS, ICML, and ICLR. Outside of academia, I love playing tennis, I am also a certified scuba diver and surfer.
+          </p>
 
           {/* Research Interests Section */}
           <div className="mt-8">
             <h3 className="text-2xl font-semibold mb-4 text-[#820000]" style={{ fontFamily: 'Arial, sans-serif' }}>Research Interests:</h3>
-            <div className="flex flex-wrap gap-4">
-              {['Reliable AI', 'AI agents', 'AI for healthcare'].map((interest, index) => (
+            <div className="flex flex-wrap gap-2 lg:gap-4">
+              {['AI for medicine', 'Reliable AI', 'AI agents'].map((interest, index) => (
                 <span
                   key={index}
-                  className="px-4 py-2 bg-[#820000] text-white rounded-full text-sm font-medium hover:bg-[#8C1515] transition"
+                  className="px-3 py-1 lg:px-4 lg:py-2 bg-[#820000] text-white rounded-full text-sm font-medium hover:bg-[#8C1515] transition"
                   style={{ fontFamily: 'Arial, sans-serif' }}
                 >
                   {interest}
@@ -104,15 +104,15 @@ export default function Home() {
                   <>
                     <span className="font-semibold">Co-authored</span> {""}
                     <a
-                      href="https://arxiv.org/abs/2410.15778"
+                      href="https://arxiv.org/pdf/2502.11271"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-[#820000] hover:underline font-semibold"
+                      className="text-[#3b3b3b] hover:underline font-semibold"
                     >
                       OctoTools: An Agentic Framework with Extensible Tools 
                     </a>{" "}
                     is online now. <a
-                      href="https://arxiv.org/abs/2410.15778"
+                      href="https://huggingface.co/spaces/OctoTools/octotools"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[#820000] hover:underline font-semibold"
@@ -130,7 +130,34 @@ export default function Home() {
                 ),
             
               },
-              
+
+              {
+                date: "2025 02",
+                description: (
+                  <>
+                  {""}
+                  <a
+                      href="https://textgrad.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-[#3b3b3b] hover:underline font-semibold"
+                    >
+                    TextGrad
+                    </a>{" "}
+                    is now accepted by {""}
+                    <a
+                      href="https://www.nature.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-[#820000] hover:underline font-semibold"
+                    >
+                      Nature
+                    </a>{" "}.
+                  </>
+                ),
+            
+              },
+
               {
                 date: "2025 02",
                 description: (
@@ -140,12 +167,12 @@ export default function Home() {
                       href="https://arxiv.org/abs/2410.15778"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-[#820000] hover:underline font-semibold"
+                      className="text-[#3b3b3b] hover:underline font-semibold"
                     >
                       Reducing hallucinations in VLM via latent space steering
                     </a>{" "}
-                    is accepted at <span className="font-semibold">ICLR</span> as a{" "} 
-                    <span className="text-[#820000] font-semibold">spotlight paper. </span>
+                    is accepted at <span className="font-semibold">ICLR 2025</span> as a{" "} 
+                    <span className="text-[#820000] font-semibold">Spotlight paper. </span>
                     <a
                       href="https://github.com/shengliu66/VTI"
                       target="_blank"
@@ -166,7 +193,7 @@ export default function Home() {
                       href="https://arxiv.org/abs/2402.09478"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-[#820000] hover:underline font-semibold"
+                      className="text-[#3b3b3b] hover:underline font-semibold"
                     >
                      Data Reconstruction Attacks and Defenses
                     </a>{" "}
@@ -188,7 +215,7 @@ export default function Home() {
                     >
                       MedTrinity-25M
                     </a>{" "}
-                    is accepted at <span className="font-semibold">ICLR</span>. 
+                    is accepted at <span className="font-semibold">ICLR 2025</span>. 
                     <a
                       href="https://github.com/UCSC-VLAA/MedTrinity-25M"
                       target="_blank"
@@ -235,28 +262,33 @@ export default function Home() {
                       href="https://arxiv.org/pdf/2409.15761"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-[#820000] hover:underline font-semibold"
+                      className="text-[#3b3b3b] hover:underline font-semibold"
                     >
                     <span> </span>Training-Free Guidance for Diffusion Models
                     </a>{" "}
-                    is accepted at <span className="font-semibold">NeurIPS</span> as <span className="text-[#820000] font-semibold">spotlight</span>. 
+                    is accepted at <span className="font-semibold">NeurIPS 2024</span> as <span className="text-[#820000] font-semibold">spotlight</span>. 
           
                   </>
                 ),
               },
-
-    
-              
-              { date: "2024 07", description: '{link} is accepted at COLM 2024.', link: { text: "LLMs in scientific papers", url: "https://arxiv.org/abs/2404.01268" }},
+              { date: "2024 07", description: <><a
+                href="https://arxiv.org/abs/2404.01268"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#3b3b3b] hover:underline font-semibold"
+              >
+              <span> </span> LLMs in scientific papers
+              </a>{" "} is accepted at COLM 2024.</>, 
+              },
               { 
                 date: "2024 07", 
-                description: <><a
+                description: <>Our paper on <a
                 href="https://arxiv.org/pdf/2406.15609"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[#820000] hover:underline font-semibold"
+                className="text-[#3b3b3b] hover:underline font-semibold"
               >
-              <span> </span> Our paper on AI guided radiotherapy treatment planning
+              <span> </span>AI guided radiotherapy treatment planning
               </a>{" "} is online <span className="text font-semibold">Arxiv</span>.</>, 
               },
               { 
@@ -276,24 +308,23 @@ export default function Home() {
                 href="https://arxiv.org/abs/2403.07183"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[#820000] hover:underline font-semibold"
+                className="text-[#3b3b3b] hover:underline font-semibold"
               >
               <span> </span> In-Context Vector: making ICL more effective and controllable
-              </a>{" "} is accepted at <span className="text font-semibold">ICML 2025</span>.</>, 
+              </a>{" "} has been accepted at <span className="text font-semibold">ICML 2024</span>.</>, 
               },
 
               { 
                 date: "2024 06", 
-                description: <>Impact of <a
+                description: <><a
                 href="https://arxiv.org/abs/2403.07183"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[#820000] hover:underline font-semibold"
               >
-              <span> </span> ChatGPT in AI
-              </a>{" "} review is accepted at <span className="text font-semibold">ICML 2025</span> <span className="text-[#820000] font-semibold">(oral)</span>.</>, 
+              <span> </span> Impact of ChatGPT in AI
+              </a>{" "} review has been accepted at <span className="text font-semibold">ICML 2024</span> <span className="text-[#820000] font-semibold">(oral)</span>.</>, 
               },
-              
 
               { 
                 date: "2024 03", 
@@ -301,17 +332,16 @@ export default function Home() {
                 link: {text: "New York Times", url: "https://www.nytimes.com/2024/03/29/opinion/ai-internet-x-youtube.html" }
             
               },
-              
               {
                 date: "2024 03",
                 description: (
                   <>
-                    two papers   
+                    Two papers   
                     <a
                       href="https://arxiv.org/pdf/2212.12206"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-[#820000] hover:underline font-semibold"
+                      className="text-[#3b3b3b] hover:underline font-semibold"
                     >
                     <span> </span> Theoretical analysis on neural collapse
                     </a>{" "} and 
@@ -319,7 +349,7 @@ export default function Home() {
                       href="https://arxiv.org/pdf/2311.16361"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-[#820000] hover:underline font-semibold"
+                      className="text-[#3b3b3b] hover:underline font-semibold"
                     >
                     <span> </span> Robust self-supervised learning
                     </a>{" "}
@@ -464,12 +494,29 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="lg:w-1/2 bg-[#f0f0f0] rounded-xl p-6 flex flex-col lg:flex-row items-start lg:items-center gap-4">
+          <div className="lg:w-1/2 bg-[#f0f0f0] rounded-xl p-6 flex flex-col gap-4">
   {/* Left: Publication Details */}
-          <div className="lg:w-6/7">
+          <div className="lg:w-full">
             <h5 className="text-lg font-semibold text-[#820000] mb-2">Related Publication:</h5>
 
             <p className="font-semibold gap-4 mt-1">
+            Optimizing generative AI by backpropagating language model feedback
+            </p>
+            <p className="mt-1 text-sm">
+              Mert Yuksekgonul*, Federico Bianchi*, Joseph Boen*, <span className="font-bold">Sheng Liu*</span>, Pan Lu*, Zhi Huang*, Carlos Guestrin, James Zou (*equal contribution)
+            </p>
+            <p className="mt-2">
+              <span className="font-semibold text-[#820000]">Nature</span> (2025)
+            </p>
+            <ul className="flex gap-4 mt-3 text-sm">
+              <li><a href="https://textgrad.com/" className="text-[#820000] hover:underline">[website]</a></li>
+              <li><a href="https://arxiv.org/pdf/2406.07496" className="text-[#820000] hover:underline">[paper]</a></li>
+              <li><a href="https://hai.stanford.edu/news/textgrad-autograd-text" className="text-[#820000] hover:underline">[Stanford HAI]</a></li>
+              <li><a href="https://www.marktechpost.com/2024/06/13/from-manual-tweaks-to-textual-gradients-textgrad-automates-ai-optimization-through-natural-language-guidance/" className="text-[#820000] hover:underline">[marktechpost]</a></li>
+              <li><a href="https://syncedreview.com/2024/06/15/stanford-cz-biohubs-textgrad-transforming-ai-optimization-with-textual-feedback/" className="text-[#820000] hover:underline">[Synced]</a></li>
+            </ul>
+
+            <p className="font-semibold gap-4 mt-3">
             OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning
             </p>
             <p className="mt-1 text-sm">
@@ -487,22 +534,7 @@ export default function Home() {
 
 
 
-            <p className="font-semibold gap-4 mt-3">
-            Optimizing generative AI by backpropagating language model feedback
-            </p>
-            <p className="mt-1 text-sm">
-              Mert Yuksekgonul*, Federico Bianchi*, Joseph Boen*, <span className="font-bold">Sheng Liu*</span>, Pan Lu*, Zhi Huang*, Carlos Guestrin, James Zou (*equal contribution)
-            </p>
-            <p className="mt-2">
-              <span className="font-semibold text-[#820000]">Nature</span> (2025)
-            </p>
-            <ul className="flex gap-4 mt-3 text-sm">
-              <li><a href="https://textgrad.com/" className="text-[#820000] hover:underline">[website]</a></li>
-              <li><a href="https://arxiv.org/pdf/2406.07496" className="text-[#820000] hover:underline">[paper]</a></li>
-              <li><a href="https://hai.stanford.edu/news/textgrad-autograd-text" className="text-[#820000] hover:underline">[Stanford HAI]</a></li>
-              <li><a href="https://www.marktechpost.com/2024/06/13/from-manual-tweaks-to-textual-gradients-textgrad-automates-ai-optimization-through-natural-language-guidance/" className="text-[#820000] hover:underline">[marktechpost]</a></li>
-              <li><a href="https://syncedreview.com/2024/06/15/stanford-cz-biohubs-textgrad-transforming-ai-optimization-with-textual-feedback/" className="text-[#820000] hover:underline">[Synced]</a></li>
-            </ul>
+            
           </div>
 
           {/* Right: Cover Image */}
@@ -529,7 +561,7 @@ export default function Home() {
             Automated radiotherapy treatment planning guided by GPT-4Vision 
             </p>
             <p className="mt-1 text-sm">
-              <span className="font-bold">Sheng Liu</span>, Federico Bianchi, Mert Yuksekgonul, Thomas J. Montine, James Zou
+              <span className="font-bold">Sheng Liu*</span>, Oscar Pastor-Serrano*, Yizheng Chen, Matthew Gopaulchan, Weixing Liang, Mark Buyyounouski, Erqi Pollom, Quynh-Thu Le, Michael Gensheimer, Peng Dong, Yong Yang, James Zou, Lei Xing (*equal contribution)
             </p>
             <p className="mt-2">
               <span className="font-semibold text-[#820000]">Arxiv</span> (2024)
