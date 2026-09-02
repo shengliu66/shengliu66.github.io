@@ -3,7 +3,7 @@ import { t as gallery_diving_default } from "./gallery-diving-BJ0nt5Ty.mjs";
 import { n as require_jsx_runtime, r as require_react, t as QueryClientProvider } from "../_libs/react+tanstack__react-query.mjs";
 import { c as HeadContent, d as Outlet, f as lazyRouteComponent, g as useRouter, h as Link, m as createRootRouteWithContext, p as createFileRoute, s as Scripts, u as createRouter } from "../_libs/@tanstack/react-router+[...].mjs";
 import { t as QueryClient } from "../_libs/tanstack__query-core.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/router-C-UBy8J0.js
+//#region node_modules/.nitro/vite/services/ssr/assets/router-DmGLzMwP.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var styles_default = "/assets/styles-Dm3qLiAu.css";
@@ -26,7 +26,7 @@ function reportLovableError(error, context = {}) {
 		filename: window.location.pathname
 	});
 }
-var sheng_portrait_default = "/assets/sheng-portrait-CRVQYRq7.jpg";
+var sheng_portrait_default = "/assets/sheng-portrait-DEVpR8LH.jpg";
 function applyTheme(mode) {
 	const root = document.documentElement;
 	root.classList.toggle("dark", mode === "dark");

@@ -19,168 +19,168 @@ var public_assets_data_default = {
 	"/robots.txt": {
 		"type": "text/plain; charset=utf-8",
 		"etag": "\"a0-CKGXSIe7TSsqDTmGm/nY1t/o5d0\"",
-		"mtime": "2026-09-02T04:50:08.345Z",
+		"mtime": "2026-09-02T08:00:16.988Z",
 		"size": 160,
 		"path": "../public/robots.txt"
 	},
-	"/assets/gallery-DMJrQfSo.js": {
+	"/assets/gallery-B64pX97P.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"cd9-mUp2EaWF3gG/RfH8qDO8fhi2Kes\"",
-		"mtime": "2026-09-02T04:50:07.589Z",
+		"etag": "\"cd9-iM2G2wY1ZrlamV7lOykyH+mZvHY\"",
+		"mtime": "2026-09-02T08:00:16.404Z",
 		"size": 3289,
-		"path": "../public/assets/gallery-DMJrQfSo.js"
+		"path": "../public/assets/gallery-B64pX97P.js"
 	},
 	"/favicon.ico": {
 		"type": "image/vnd.microsoft.icon",
 		"etag": "\"4203e-6MfU1n5poFoTsMi79bF55tTmMFU\"",
-		"mtime": "2026-09-02T04:50:08.351Z",
+		"mtime": "2026-09-02T08:00:16.990Z",
 		"size": 270398,
 		"path": "../public/favicon.ico"
-	},
-	"/assets/gallery-aida-BY1H5i8C.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"6b283-LStDEv9/YXanTBoKRBvzf4Utk2M\"",
-		"mtime": "2026-09-02T04:50:07.589Z",
-		"size": 438915,
-		"path": "../public/assets/gallery-aida-BY1H5i8C.jpg"
 	},
 	"/assets/gallery-diving-C7Q_Mwbl.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"1b39e-houezibnNj3sD9crZWBFZEM94+0\"",
-		"mtime": "2026-09-02T04:50:07.594Z",
+		"mtime": "2026-09-02T08:00:16.418Z",
 		"size": 111518,
 		"path": "../public/assets/gallery-diving-C7Q_Mwbl.jpg"
-	},
-	"/assets/gallery-desk-D9iuLQU6.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"31010-ggEkx36OgE4eBcC5SbvX7OaaLfk\"",
-		"mtime": "2026-09-02T04:50:07.594Z",
-		"size": 200720,
-		"path": "../public/assets/gallery-desk-D9iuLQU6.jpg"
 	},
 	"/assets/gallery-galaxy-BrCbzIdZ.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"32f96-g3dGz02UDyqP6q/5lTx0GqJ2920\"",
-		"mtime": "2026-09-02T04:50:07.594Z",
+		"mtime": "2026-09-02T08:00:16.418Z",
 		"size": 208790,
 		"path": "../public/assets/gallery-galaxy-BrCbzIdZ.jpg"
 	},
-	"/assets/gallery-tennis-CTbWXhLU.jpg": {
+	"/assets/gallery-aida-BY1H5i8C.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"436cf-625IGM+owa5OL4+KD9sTWmBfUss\"",
-		"mtime": "2026-09-02T04:50:07.604Z",
-		"size": 276175,
-		"path": "../public/assets/gallery-tennis-CTbWXhLU.jpg"
+		"etag": "\"6b283-LStDEv9/YXanTBoKRBvzf4Utk2M\"",
+		"mtime": "2026-09-02T08:00:16.405Z",
+		"size": 438915,
+		"path": "../public/assets/gallery-aida-BY1H5i8C.jpg"
+	},
+	"/assets/gallery-desk-D9iuLQU6.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"31010-ggEkx36OgE4eBcC5SbvX7OaaLfk\"",
+		"mtime": "2026-09-02T08:00:16.418Z",
+		"size": 200720,
+		"path": "../public/assets/gallery-desk-D9iuLQU6.jpg"
 	},
 	"/assets/gallery-surf-BkLmvDGm.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"15fbe-7baX5RVAdSsf8iZtLtakj4y0JxA\"",
-		"mtime": "2026-09-02T04:50:07.604Z",
+		"mtime": "2026-09-02T08:00:16.442Z",
 		"size": 90046,
 		"path": "../public/assets/gallery-surf-BkLmvDGm.jpg"
 	},
-	"/assets/index-DnWLBa4_.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"560e5-CKxmEUkXA6CfFfVBQwMIFz1B0Js\"",
-		"mtime": "2026-09-02T04:50:07.589Z",
-		"size": 352485,
-		"path": "../public/assets/index-DnWLBa4_.js"
+	"/assets/gallery-tennis-CTbWXhLU.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"436cf-625IGM+owa5OL4+KD9sTWmBfUss\"",
+		"mtime": "2026-09-02T08:00:16.442Z",
+		"size": 276175,
+		"path": "../public/assets/gallery-tennis-CTbWXhLU.jpg"
 	},
-	"/assets/news-Bz_z0_VU.js": {
+	"/assets/news-BQhFnYt8.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"31c-DMecrcpKfhrtziWzKlUHWldYYP4\"",
-		"mtime": "2026-09-02T04:50:07.589Z",
+		"etag": "\"31c-BFo9qZc4Q3h0urReVityU8os0Ls\"",
+		"mtime": "2026-09-02T08:00:16.404Z",
 		"size": 796,
-		"path": "../public/assets/news-Bz_z0_VU.js"
+		"path": "../public/assets/news-BQhFnYt8.js"
 	},
 	"/assets/news-C64oH_3L.js": {
 		"type": "text/javascript; charset=utf-8",
 		"etag": "\"ae8-0nA8B8PVNU2tWajNzij+I6Drx6E\"",
-		"mtime": "2026-09-02T04:50:07.589Z",
+		"mtime": "2026-09-02T08:00:16.404Z",
 		"size": 2792,
 		"path": "../public/assets/news-C64oH_3L.js"
 	},
-	"/assets/routes-EzmQYhUZ.js": {
+	"/assets/research-D4rfzq_Z.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"b80-4+4Ny+6BSbvJexBOCAO8slestCA\"",
-		"mtime": "2026-09-02T04:50:07.589Z",
+		"etag": "\"106f-8FyKOsOSg1Fuv1JRLq3yw8YHgm0\"",
+		"mtime": "2026-09-02T08:00:16.404Z",
+		"size": 4207,
+		"path": "../public/assets/research-D4rfzq_Z.js"
+	},
+	"/assets/routes-DkSNQj-o.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"b80-YwUIz/kKKAuVwyHzdbpbqrzQ9dI\"",
+		"mtime": "2026-09-02T08:00:16.404Z",
 		"size": 2944,
-		"path": "../public/assets/routes-EzmQYhUZ.js"
+		"path": "../public/assets/routes-DkSNQj-o.js"
+	},
+	"/assets/index-DxaImmyj.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"560e5-kDH9m2uxqIoRPjksied7N/zloY8\"",
+		"mtime": "2026-09-02T08:00:16.404Z",
+		"size": 352485,
+		"path": "../public/assets/index-DxaImmyj.js"
 	},
 	"/assets/styles-Dm3qLiAu.css": {
 		"type": "text/css; charset=utf-8",
 		"etag": "\"12d16-zo0okI1pk1v9Gyx7g4eOXg2X5Fw\"",
-		"mtime": "2026-09-02T04:50:07.614Z",
+		"mtime": "2026-09-02T08:00:16.464Z",
 		"size": 77078,
 		"path": "../public/assets/styles-Dm3qLiAu.css"
 	},
-	"/assets/research-yCQePTar.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"106f-vokOqUUj+RLUSlfCrY0BPxtQAYg\"",
-		"mtime": "2026-09-02T04:50:07.589Z",
-		"size": 4207,
-		"path": "../public/assets/research-yCQePTar.js"
-	},
-	"/assets/sheng-portrait-CRVQYRq7.jpg": {
+	"/assets/sheng-portrait-DEVpR8LH.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"91030-k+wSPv5ThDk9nsDjFR+8orI6X6c\"",
-		"mtime": "2026-09-02T04:50:07.614Z",
-		"size": 593968,
-		"path": "../public/assets/sheng-portrait-CRVQYRq7.jpg"
-	},
-	"/assets/gallery-hike-DFGpx2mZ.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"256940-BQOJHCKHPHrLiNFXX7F/hSFLNOw\"",
-		"mtime": "2026-09-02T04:50:07.603Z",
-		"size": 2451776,
-		"path": "../public/assets/gallery-hike-DFGpx2mZ.jpg"
+		"etag": "\"59751-4dNhYd06Yduv1RMiyJKr+Ibk80Q\"",
+		"mtime": "2026-09-02T08:00:16.464Z",
+		"size": 366417,
+		"path": "../public/assets/sheng-portrait-DEVpR8LH.jpg"
 	},
 	"/assets/gallery-lotus-CSKx2q1g.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"20317b-VEUa8oEFbtl8kW85UnuzFQgAnls\"",
-		"mtime": "2026-09-02T04:50:07.604Z",
+		"mtime": "2026-09-02T08:00:16.441Z",
 		"size": 2109819,
 		"path": "../public/assets/gallery-lotus-CSKx2q1g.jpg"
+	},
+	"/assets/gallery-hike-DFGpx2mZ.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"256940-BQOJHCKHPHrLiNFXX7F/hSFLNOw\"",
+		"mtime": "2026-09-02T08:00:16.441Z",
+		"size": 2451776,
+		"path": "../public/assets/gallery-hike-DFGpx2mZ.jpg"
 	},
 	"/assets/gallery-travel-CDTs3GQz.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"2a4de2-sEviAiFSz5+ADxDCD5J8CE/sl80\"",
-		"mtime": "2026-09-02T04:50:07.610Z",
+		"mtime": "2026-09-02T08:00:16.457Z",
 		"size": 2772450,
 		"path": "../public/assets/gallery-travel-CDTs3GQz.jpg"
-	},
-	"/assets/gallery-budda-CqUbOnWv.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"541d7c-QeNR0SUm2n+yodYnPF+4EzFms0g\"",
-		"mtime": "2026-09-02T04:50:07.591Z",
-		"size": 5512572,
-		"path": "../public/assets/gallery-budda-CqUbOnWv.jpg"
 	},
 	"/assets/gallery-travel-ca-DNE8Dj-R.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"4fc364-aGvR11JO8eGX5RfhizkNCL9p/Zk\"",
-		"mtime": "2026-09-02T04:50:07.612Z",
+		"mtime": "2026-09-02T08:00:16.463Z",
 		"size": 5227364,
 		"path": "../public/assets/gallery-travel-ca-DNE8Dj-R.jpg"
+	},
+	"/assets/gallery-budda-CqUbOnWv.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"541d7c-QeNR0SUm2n+yodYnPF+4EzFms0g\"",
+		"mtime": "2026-09-02T08:00:16.409Z",
+		"size": 5512572,
+		"path": "../public/assets/gallery-budda-CqUbOnWv.jpg"
 	},
 	"/assets/gallery-city-B4QsIOLs.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"66d016-zqHECdnB/+uqPaoaqh2TjUIl3/4\"",
-		"mtime": "2026-09-02T04:50:07.592Z",
+		"mtime": "2026-09-02T08:00:16.417Z",
 		"size": 6737942,
 		"path": "../public/assets/gallery-city-B4QsIOLs.jpg"
 	},
 	"/assets/gallery-thai-BZywf42F.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"7d5ca8-Rbc/bfnkVBsepbEUvVq3I1TZW+I\"",
-		"mtime": "2026-09-02T04:50:07.607Z",
+		"mtime": "2026-09-02T08:00:16.451Z",
 		"size": 8215720,
 		"path": "../public/assets/gallery-thai-BZywf42F.jpg"
 	},
 	"/assets/gallery-graduate-EKjaB1kV.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"ec0754-572+i7/Y+RuDDU5JxCcKDcJIvGk\"",
-		"mtime": "2026-09-02T04:50:07.600Z",
+		"mtime": "2026-09-02T08:00:16.436Z",
 		"size": 15468372,
 		"path": "../public/assets/gallery-graduate-EKjaB1kV.jpg"
 	}

@@ -104,12 +104,23 @@ function Home() {
 
       <section className="border border-[var(--rule)] bg-card p-10 text-center shadow-[0_4px_20px_-10px_rgba(0,0,0,0.05)]">
         <h3 className="font-display text-xl italic">Interested in collaboration?</h3>
+
         <p className="mx-auto mt-4 max-w-sm text-[15px] leading-relaxed text-foreground/90">
-          We are actively seeking students and collaborators with a background in machine learning,
-          large foundation models, AI agents, or AI for medicine.
+          We welcome inquiries from students and collaborators interested in machine learning, foundation models, AI agents, and AI for medicine.
         </p>
+
+        <button
+          type="button"
+          onClick={() => navigator.clipboard.writeText("shengl@stanford.edu")}
+          className="inline-block border border-[var(--rule)] px-8 py-3 font-mono text-[11px] uppercase tracking-[0.2em] transition-colors duration-300 hover:bg-muted"
+        >
+          Copy My Email
+        </button>
+
         <a
-          href="mailto:shengl@stanford.edu"
+          href="https://docs.google.com/forms/d/e/1FAIpQLScbs8tKR82yXk4WDGaOAVftKHmH29FxVVOetmOSQW3wzTV9Kw/viewform?usp=dialog"
+          target="_blank"
+          rel="noopener noreferrer"
           className="mt-8 inline-block bg-primary px-8 py-3 font-mono text-[11px] uppercase tracking-[0.2em] text-primary-foreground transition-colors duration-300 hover:bg-foreground"
         >
           Send an Inquiry

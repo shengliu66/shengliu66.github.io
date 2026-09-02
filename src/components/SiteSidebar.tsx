@@ -38,7 +38,7 @@ export function SiteSidebar() {
             Postdoctoral Researcher, Stanford University
           </p>
           <a href="mailto:shengl@stanford.edu" className="mt-4 inline-block text-sm font-medium text-primary link-quiet">
-            shengl@stanford.edu
+            shengl at stanford dot edu
           </a>
         </div>
 
