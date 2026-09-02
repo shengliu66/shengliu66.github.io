@@ -77,6 +77,11 @@ const areas: { n: string; title: string; body: string; pubs: Pub[] }[] = [
     body: "Medicine is high-stakes: accuracy and reliability are paramount. We build models supporting clinical decisions in radiation oncology and Alzheimer's disease, integrating domain knowledge with modern machine learning.",
     pubs: [
       {
+        title: "Cerebra: A Multidisciplinary Agentic AI Board for Multimodal Dementia Characterization and Risk Assessment",
+        authors: "Sheng Liu*, Long Chen*, Zeyun Zhao, Qinglin Gou, Qingyue Wei, Arjun Masurkar, Kevin M Spiegler, Philip Kuball, Stefania C Bray, Megan Bernath, Deanna R Willis, Jiang Bian, Lei Xing, Eric Topol, Kyunghyun Cho, Yu Huang, Ruogu Fang, Narges Razavian, James Zou",
+        venue: "Under Review",
+      },
+      {
         title: "Automated radiotherapy treatment planning guided by GPT-4Vision",
         authors: "Sheng Liu*, Oscar Pastor-Serrano*, et al., James Zou, Lei Xing",
         venue: "AAPM 2024",
