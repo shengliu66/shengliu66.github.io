@@ -1,5 +1,5 @@
 import { n as require_jsx_runtime } from "../_libs/react+tanstack__react-query.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/research-jahsR0vI.js
+//#region node_modules/.nitro/vite/services/ssr/assets/research-MRxlkc6l.js
 var import_jsx_runtime = require_jsx_runtime();
 var areas = [
 	{
@@ -50,16 +50,24 @@ var areas = [
 		n: "03",
 		title: "AI for Human Disease and Health",
 		body: "Medicine is high-stakes: accuracy and reliability are paramount. We build models supporting clinical decisions in radiation oncology and Alzheimer's disease, integrating domain knowledge with modern machine learning.",
-		pubs: [{
-			title: "Automated radiotherapy treatment planning guided by GPT-4Vision",
-			authors: "Sheng Liu*, Oscar Pastor-Serrano*, et al., James Zou, Lei Xing",
-			venue: "AAPM 2024",
-			note: "Best in Medical Physics"
-		}, {
-			title: "Generalizable deep learning model for early Alzheimer's disease detection from structural MRIs",
-			authors: "Sheng Liu, Arjun V. Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian",
-			venue: "Nature Scientific Reports 2023"
-		}]
+		pubs: [
+			{
+				title: "Cerebra: A Multidisciplinary Agentic AI Board for Multimodal Dementia Characterization and Risk Assessment",
+				authors: "Sheng Liu*, Long Chen*, Zeyun Zhao, Qinglin Gou, Qingyue Wei, Arjun Masurkar, Kevin M Spiegler, Philip Kuball, Stefania C Bray, Megan Bernath, Deanna R Willis, Jiang Bian, Lei Xing, Eric Topol, Kyunghyun Cho, Yu Huang, Ruogu Fang, Narges Razavian, James Zou",
+				venue: "Under Review"
+			},
+			{
+				title: "Automated radiotherapy treatment planning guided by GPT-4Vision",
+				authors: "Sheng Liu*, Oscar Pastor-Serrano*, et al., James Zou, Lei Xing",
+				venue: "AAPM 2024",
+				note: "Best in Medical Physics"
+			},
+			{
+				title: "Generalizable deep learning model for early Alzheimer's disease detection from structural MRIs",
+				authors: "Sheng Liu, Arjun V. Masurkar, Henry Rusinek, Jingyun Chen, Ben Zhang, Weicheng Zhu, Carlos Fernandez-Granda, Narges Razavian",
+				venue: "Nature Scientific Reports 2023"
+			}
+		]
 	}
 ];
 function Research() {
