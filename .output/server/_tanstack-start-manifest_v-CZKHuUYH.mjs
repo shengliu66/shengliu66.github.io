@@ -1,4 +1,4 @@
-//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-Do-rWuHo.js
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-CZKHuUYH.js
 var tsrStartManifest = () => ({ routes: {
 	__root__: {
 		filePath: "/Users/shengliu/Dropbox/webpage/sheng-website/src/routes/__root.tsx",
@@ -8,32 +8,32 @@ var tsrStartManifest = () => ({ routes: {
 			"/news",
 			"/research"
 		],
-		preloads: ["/assets/index-DxaImmyj.js"],
+		preloads: ["/assets/index-UFjXyY31.js"],
 		scripts: [{ attrs: {
 			type: "module",
 			async: !0,
-			src: "/assets/index-DxaImmyj.js"
+			src: "/assets/index-UFjXyY31.js"
 		} }]
 	},
 	"/": {
 		filePath: "/Users/shengliu/Dropbox/webpage/sheng-website/src/routes/index.tsx",
 		children: void 0,
-		preloads: ["/assets/routes-DkSNQj-o.js", "/assets/news-C64oH_3L.js"]
+		preloads: ["/assets/routes-BtHerjRs.js", "/assets/news-C64oH_3L.js"]
 	},
 	"/gallery": {
 		filePath: "/Users/shengliu/Dropbox/webpage/sheng-website/src/routes/gallery.tsx",
 		children: void 0,
-		preloads: ["/assets/gallery-B64pX97P.js"]
+		preloads: ["/assets/gallery-BkKiNwq6.js"]
 	},
 	"/news": {
 		filePath: "/Users/shengliu/Dropbox/webpage/sheng-website/src/routes/news.tsx",
 		children: void 0,
-		preloads: ["/assets/news-BQhFnYt8.js", "/assets/news-C64oH_3L.js"]
+		preloads: ["/assets/news-DaTvM01Y.js", "/assets/news-C64oH_3L.js"]
 	},
 	"/research": {
 		filePath: "/Users/shengliu/Dropbox/webpage/sheng-website/src/routes/research.tsx",
 		children: void 0,
-		preloads: ["/assets/research-D4rfzq_Z.js"]
+		preloads: ["/assets/research-DGw2AojY.js"]
 	}
 } });
 //#endregion

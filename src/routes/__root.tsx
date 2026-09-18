@@ -106,7 +106,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 
 function RootShell({ children }: { children: ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
         <HeadContent />
         <script
@@ -128,9 +128,9 @@ function RootComponent() {
 
   return (
     <QueryClientProvider client={queryClient}>
-      <div className="mx-auto grid min-h-screen max-w-5xl gap-16 px-6 md:px-12 lg:grid-cols-[16rem_1fr] lg:gap-24">
+      <div className="mx-auto grid min-h-screen max-w-7xl gap-16 px-6 md:px-12 lg:grid-cols-[14rem_minmax(0,1fr)] lg:gap-16">
         <SiteSidebar />
-        <main className="min-w-0 max-w-2xl py-12 lg:py-16">
+        <main className="w-full min-w-0 py-12 lg:py-16">
           {/* Required: nested routes render here. Removing <Outlet /> breaks all child routes. */}
           <Outlet />
           <footer className="mt-20 border-t border-[var(--rule)] pt-6 text-xs text-muted-foreground">

@@ -61,7 +61,7 @@ function Gallery() {
   const current = active === null ? null : photos[active];
 
   return (
-    <div className="fade-up space-y-10">
+    <div className="fade-up mx-auto w-full max-w-2xl space-y-10">
       <header>
         <h1 className="font-display italic">Elsewhere</h1>
         <p className="mt-4 max-w-xl text-[15px] leading-relaxed text-muted-foreground">

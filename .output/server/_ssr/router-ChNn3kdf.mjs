@@ -1,12 +1,13 @@
 import { n as __toESM } from "../_runtime.mjs";
 import { t as gallery_diving_default } from "./gallery-diving-BJ0nt5Ty.mjs";
-import { n as require_jsx_runtime, r as require_react, t as QueryClientProvider } from "../_libs/react+tanstack__react-query.mjs";
+import { n as require_react } from "../_libs/@radix-ui/react-compose-refs+[...].mjs";
+import { n as require_jsx_runtime, t as QueryClientProvider } from "../_libs/react+tanstack__react-query.mjs";
 import { c as HeadContent, d as Outlet, f as lazyRouteComponent, g as useRouter, h as Link, m as createRootRouteWithContext, p as createFileRoute, s as Scripts, u as createRouter } from "../_libs/@tanstack/react-router+[...].mjs";
 import { t as QueryClient } from "../_libs/tanstack__query-core.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/router-DmGLzMwP.js
+//#region node_modules/.nitro/vite/services/ssr/assets/router-ChNn3kdf.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
-var styles_default = "/assets/styles-Dm3qLiAu.css";
+var styles_default = "/assets/styles-BZFx0Ud-.css";
 function reportLovableError(error, context = {}) {
 	if (typeof window === "undefined") return;
 	window.__lovableEvents?.captureException?.(error, {
@@ -109,7 +110,7 @@ function SiteSidebar() {
 					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("a", {
 						href: "mailto:shengl@stanford.edu",
 						className: "mt-4 inline-block text-sm font-medium text-primary link-quiet",
-						children: "shengl@stanford.edu"
+						children: "shengl at stanford dot edu"
 					})
 				] }),
 				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("nav", {
@@ -274,6 +275,7 @@ var Route$4 = createRootRouteWithContext()({
 function RootShell({ children }) {
 	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("html", {
 		lang: "en",
+		suppressHydrationWarning: true,
 		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("head", { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(HeadContent, {}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("script", { dangerouslySetInnerHTML: { __html: `(function(){try{var s=localStorage.getItem('theme');var h=new Date().getHours();var d=s?s==='dark':(h>=19||h<7);if(d){document.documentElement.classList.add('dark');}document.documentElement.style.colorScheme=d?'dark':'light';}catch(e){}})();` } })] }), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("body", { children: [children, /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Scripts, {})] })]
 	});
 }
@@ -282,9 +284,9 @@ function RootComponent() {
 	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(QueryClientProvider, {
 		client: queryClient,
 		children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
-			className: "mx-auto grid min-h-screen max-w-5xl gap-16 px-6 md:px-12 lg:grid-cols-[16rem_1fr] lg:gap-24",
+			className: "mx-auto grid min-h-screen max-w-7xl gap-16 px-6 md:px-12 lg:grid-cols-[14rem_minmax(0,1fr)] lg:gap-16",
 			children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(SiteSidebar, {}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("main", {
-				className: "min-w-0 max-w-2xl py-12 lg:py-16",
+				className: "w-full min-w-0 py-12 lg:py-16",
 				children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Outlet, {}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("footer", {
 					className: "mt-20 border-t border-[var(--rule)] pt-6 text-xs text-muted-foreground",
 					children: [
@@ -297,10 +299,10 @@ function RootComponent() {
 		})
 	});
 }
-var $$splitComponentImporter$3 = () => import("./routes-CbGKal3s.mjs");
+var $$splitComponentImporter$3 = () => import("./routes-COlNQd5O.mjs");
 var Route$3 = createFileRoute("/")({
 	head: () => ({ meta: [
-		{ title: "Sheng Liu — Auditable AI for Biomedicine" },
+		{ title: "Sheng Liu — Auditable AI Systems for Biomedicine" },
 		{
 			name: "description",
 			content: "Sheng Liu is a postdoctoral researcher at Stanford University building reliable and auditable AI systems for biomedicine."
@@ -316,7 +318,7 @@ var Route$3 = createFileRoute("/")({
 	] }),
 	component: lazyRouteComponent($$splitComponentImporter$3, "component")
 });
-var $$splitComponentImporter$2 = () => import("./gallery-DRddUiOq.mjs");
+var $$splitComponentImporter$2 = () => import("./gallery-D2RRg1BK.mjs");
 var Route$2 = createFileRoute("/gallery")({
 	head: () => ({ meta: [
 		{ title: "Elsewhere — Sheng Liu" },
@@ -354,13 +356,13 @@ var Route$1 = createFileRoute("/news")({
 	] }),
 	component: lazyRouteComponent($$splitComponentImporter$1, "component")
 });
-var $$splitComponentImporter = () => import("./research-MRxlkc6l.mjs");
+var $$splitComponentImporter = () => import("./research-C6tuGC4n.mjs");
 var Route = createFileRoute("/research")({
 	head: () => ({ meta: [
 		{ title: "Research — Sheng Liu" },
 		{
 			name: "description",
-			content: "Active research areas: robust and reliable AI, AI systems and agents, and AI for human disease and health."
+			content: "Auditable AI systems for reliable learning, controllable reasoning, and biomedicine."
 		},
 		{
 			property: "og:title",
@@ -368,7 +370,15 @@ var Route = createFileRoute("/research")({
 		},
 		{
 			property: "og:description",
-			content: "Robust and reliable AI, AI systems and agents, and AI for human disease and health."
+			content: "Auditable AI systems for reliable learning, controllable reasoning, and biomedicine."
+		},
+		{
+			property: "og:type",
+			content: "website"
+		},
+		{
+			name: "twitter:card",
+			content: "summary_large_image"
 		}
 	] }),
 	component: lazyRouteComponent($$splitComponentImporter, "component")

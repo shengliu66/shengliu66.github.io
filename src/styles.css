@@ -32,6 +32,10 @@
   --color-ring: var(--ring);
   --color-ring-offset-background: var(--background);
   --color-rule: var(--rule);
+  --color-research-blue: var(--research-blue);
+  --color-research-soft: var(--research-soft);
+  --color-research-mint: var(--research-mint);
+  --color-research-rose: var(--research-rose);
   --font-display: "Newsreader", Georgia, "Times New Roman", serif;
   --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
@@ -59,6 +63,10 @@
   --input: #dcdfe4;
   --ring: #002d72;
   --rule: color-mix(in oklab, #1a1a1a 12%, transparent);
+  --research-blue: oklch(0.31 0.07 248);
+  --research-soft: oklch(0.96 0.018 240);
+  --research-mint: oklch(0.95 0.03 171);
+  --research-rose: oklch(0.96 0.025 8);
 }
 
 .dark {
@@ -80,6 +88,10 @@
   --input: #22303f;
   --ring: #68ace5;
   --rule: color-mix(in oklab, #eef2f7 16%, transparent);
+  --research-blue: oklch(0.78 0.07 235);
+  --research-soft: oklch(0.24 0.025 245);
+  --research-mint: oklch(0.25 0.025 171);
+  --research-rose: oklch(0.25 0.025 8);
 }
 
 @layer base {
@@ -196,5 +208,11 @@
   to {
     opacity: 1;
     transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-up {
+    animation: none;
   }
 }

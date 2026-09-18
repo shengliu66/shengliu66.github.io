@@ -4,7 +4,7 @@ import { allNews } from "@/lib/news";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Sheng Liu — Auditable AI for Biomedicine" },
+      { title: "Sheng Liu — Auditable AI Systems for Biomedicine" },
       {
         name: "description",
         content:
@@ -24,7 +24,7 @@ export const Route = createFileRoute("/")({
 const focus = [
   {
     k: "Robustness",
-    v: "Handle noisy data, imperfect labels, and bias — learning that stays reliable when the data is not.",
+    v: "Handle noisy, imperfect data, and bias — learning that stays reliable when the data is not.",
   },
   {
     k: "Steerability",
@@ -38,10 +38,10 @@ const focus = [
 
 function Home() {
   return (
-    <div className="fade-up space-y-20">
+    <div className="fade-up mx-auto w-full max-w-2xl space-y-20">
       <section>
         <h2 className="font-display mb-8 max-w-xl text-2xl font-light italic leading-snug tracking-tight text-foreground">
-          Auditable AI for Biomedicine
+          Auditable AI Systems for Biomedicine
         </h2>
         <div className="space-y-6 text-[17px] leading-relaxed text-foreground/90">
           <p>
@@ -56,13 +56,13 @@ function Home() {
           <p>
             My research builds reliable and auditable AI systems that can reason, adapt, and act in
             complex real-world environments. I develop methods for robust learning, controllable
-            inference, and agentic AI, with a particular focus on biomedicine, where I am interested
+            inference, and agentic AI, with a particular focus on biomedicine—where I am interested
             in turning heterogeneous evidence into trustworthy decisions, scientific discoveries,
             and ultimately better paths to treatment.
           </p>
           <p>
             Outside of academia, I play tennis and am a certified scuba diver and surfer. Some of
-            that lives on the <Link to="/gallery" className="link-quiet">Elsewhere</Link> page.
+            that lives on the <Link to="/gallery" className="link-quiet">gallery</Link> page.
           </p>
         </div>
       </section>
@@ -88,7 +88,7 @@ function Home() {
         </ul>
       </section>
 
-      {/* <section>
+      <section>
         <h3 className="section-heading mb-8 border-b border-[var(--rule)] pb-2">From Autopilot to Copilot</h3>
         <div className="space-y-10">
           {focus.map((f) => (
@@ -100,27 +100,16 @@ function Home() {
             </div>
           ))}
         </div>
-      </section> */}
+      </section>
 
       <section className="border border-[var(--rule)] bg-card p-10 text-center shadow-[0_4px_20px_-10px_rgba(0,0,0,0.05)]">
         <h3 className="font-display text-xl italic">Interested in collaboration?</h3>
-
         <p className="mx-auto mt-4 max-w-sm text-[15px] leading-relaxed text-foreground/90">
-          We welcome inquiries from students and collaborators interested in machine learning, foundation models, AI agents, and AI for medicine.
+          We are actively seeking students and collaborators with a background in machine learning,
+          large foundation models, AI agents, or AI for medicine.
         </p>
-
-        <button
-          type="button"
-          onClick={() => navigator.clipboard.writeText("shengl@stanford.edu")}
-          className="inline-block border border-[var(--rule)] px-8 py-3 font-mono text-[11px] uppercase tracking-[0.2em] transition-colors duration-300 hover:bg-muted"
-        >
-          Copy My Email
-        </button>
-
         <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScbs8tKR82yXk4WDGaOAVftKHmH29FxVVOetmOSQW3wzTV9Kw/viewform?usp=dialog"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="mailto:shengl@stanford.edu"
           className="mt-8 inline-block bg-primary px-8 py-3 font-mono text-[11px] uppercase tracking-[0.2em] text-primary-foreground transition-colors duration-300 hover:bg-foreground"
         >
           Send an Inquiry

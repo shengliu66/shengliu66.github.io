@@ -1,15 +1,29 @@
 import { n as require_jsx_runtime } from "../_libs/react+tanstack__react-query.mjs";
 import { t as allNews } from "./news-NL060wa0.mjs";
 import { h as Link } from "../_libs/@tanstack/react-router+[...].mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/routes-CbGKal3s.js
+//#region node_modules/.nitro/vite/services/ssr/assets/routes-COlNQd5O.js
 var import_jsx_runtime = require_jsx_runtime();
+var focus = [
+	{
+		k: "Robustness",
+		v: "Handle noisy, imperfect data, and bias — learning that stays reliable when the data is not."
+	},
+	{
+		k: "Steerability",
+		v: "Adapt to feedback and evolving context at inference time, without retraining."
+	},
+	{
+		k: "Agency",
+		v: "Reason and act on complex, real-world tasks as a collaborative partner."
+	}
+];
 function Home() {
 	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
-		className: "fade-up space-y-20",
+		className: "fade-up mx-auto w-full max-w-2xl space-y-20",
 		children: [
 			/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", {
 				className: "font-display mb-8 max-w-xl text-2xl font-light italic leading-snug tracking-tight text-foreground",
-				children: "Auditable AI for Biomedicine"
+				children: "Auditable AI Systems for Biomedicine"
 			}), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
 				className: "space-y-6 text-[17px] leading-relaxed text-foreground/90",
 				children: [
@@ -23,13 +37,13 @@ function Home() {
 						}),
 						", working with Prof. James Zou and Prof. Lei Xing. I earned my PhD in Data Science from New York University, where I was fortunate to work with Carlos Fernandez-Granda, Narges Razavian, and Kyunghyun Cho."
 					] }),
-					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { children: "My research builds reliable and auditable AI systems that can reason, adapt, and act in complex real-world environments. I develop methods for robust learning, controllable inference, and agentic AI, with a particular focus on biomedicine, where I am interested in turning heterogeneous evidence into trustworthy decisions, scientific discoveries, and ultimately better paths to treatment." }),
+					/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { children: "My research builds reliable and auditable AI systems that can reason, adapt, and act in complex real-world environments. I develop methods for robust learning, controllable inference, and agentic AI, with a particular focus on biomedicine—where I am interested in turning heterogeneous evidence into trustworthy decisions, scientific discoveries, and ultimately better paths to treatment." }),
 					/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("p", { children: [
 						"Outside of academia, I play tennis and am a certified scuba diver and surfer. Some of that lives on the ",
 						/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Link, {
 							to: "/gallery",
 							className: "link-quiet",
-							children: "Elsewhere"
+							children: "gallery"
 						}),
 						" page."
 					] })
@@ -61,6 +75,22 @@ function Home() {
 						children: item.text
 					})]
 				}, `${item.year}-${item.date}-${item.text}`))
+			})] }),
+			/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h3", {
+				className: "section-heading mb-8 border-b border-[var(--rule)] pb-2",
+				children: "From Autopilot to Copilot"
+			}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+				className: "space-y-10",
+				children: focus.map((f) => /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+					className: "group cursor-default",
+					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h4", {
+						className: "mb-2 font-display text-xl font-medium transition-colors group-hover:text-primary",
+						children: f.k
+					}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-[15px] leading-relaxed text-foreground/90",
+						children: f.v
+					})]
+				}, f.k))
 			})] }),
 			/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("section", {
 				className: "border border-[var(--rule)] bg-card p-10 text-center shadow-[0_4px_20px_-10px_rgba(0,0,0,0.05)]",

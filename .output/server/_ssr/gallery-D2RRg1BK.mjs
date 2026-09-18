@@ -1,7 +1,8 @@
 import { n as __toESM } from "../_runtime.mjs";
 import { t as gallery_diving_default } from "./gallery-diving-BJ0nt5Ty.mjs";
-import { n as require_jsx_runtime, r as require_react } from "../_libs/react+tanstack__react-query.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/gallery-DRddUiOq.js
+import { n as require_react } from "../_libs/@radix-ui/react-compose-refs+[...].mjs";
+import { n as require_jsx_runtime } from "../_libs/react+tanstack__react-query.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/gallery-D2RRg1BK.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var photos = [
@@ -108,7 +109,7 @@ function Gallery() {
 	const [active, setActive] = (0, import_react.useState)(null);
 	const current = active === null ? null : photos[active];
 	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
-		className: "fade-up space-y-10",
+		className: "fade-up mx-auto w-full max-w-2xl space-y-10",
 		children: [
 			/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("header", { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
 				className: "font-display italic",
