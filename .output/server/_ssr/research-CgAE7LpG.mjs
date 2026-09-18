@@ -5,7 +5,7 @@ import { a as HeartPulse, c as Database, d as ArrowRight, f as Activity, i as Ne
 import { t as Slot } from "../_libs/radix-ui__react-slot.mjs";
 import { n as clsx, t as cva } from "../_libs/class-variance-authority+clsx.mjs";
 import { t as twMerge } from "../_libs/tailwind-merge.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/research-C6tuGC4n.js
+//#region node_modules/.nitro/vite/services/ssr/assets/research-CgAE7LpG.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var research_noisy_labels_default = "/assets/research-noisy-labels-DmYrKYu_.jpg";
@@ -205,15 +205,28 @@ var impactAreas = [
 		description: "Turning clinical intent into auditable, deliverable treatment plans.",
 		visual: "scan",
 		image: research_radplan_default,
-		selectedWork: [{
-			title: "GPT-RadPlan: automated radiotherapy planning with large language models",
-			badge: "Best in Therapy AAPM, Medical Physics",
-			href: "https://scholar.google.com/scholar?q=Sheng+Liu+GPT-RadPlan+radiotherapy"
-		}, {
-			title: "TextGrad: Automatic \"Differentiation\" via Text",
-			badge: "Nature",
-			href: "https://arxiv.org/pdf/2406.07496"
-		}]
+		selectedWork: [
+			{
+				title: "GPT-RadPlan: automated radiotherapy planning with large language models",
+				badge: "Physics in Medicine & Biology",
+				href: "https://iopscience.iop.org/article/10.1088/1361-6560/adf02c/meta"
+			},
+			{
+				title: "Automated Treatment Planning Guided By a Context-Aware Foundation Model",
+				badge: "AAPM Best in Physics Therapy",
+				href: "https://aapm.confex.com/aapm/2024am/meetingapp.cgi/Paper/11272"
+			},
+			{
+				title: "A plugin for automated treatment planning in Eclipse TPS based on large language models",
+				badge: "Medical Physics",
+				href: "https://aapm.confex.com/aapm/2024am/meetingapp.cgi/Paper/11272"
+			},
+			{
+				title: "TextGrad: Automatic \"Differentiation\" via Text",
+				badge: "Nature",
+				href: "https://arxiv.org/pdf/2406.07496"
+			}
+		]
 	},
 	{
 		icon: FlaskConical,
@@ -535,7 +548,7 @@ function Research() {
 									size: "sm",
 									className: "min-w-36 rounded-sm shadow-none",
 									children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("a", {
-										href: "https://scholar.google.com/scholar?q=Sheng+Liu",
+										href: "https://scholar.google.com/citations?user=rzhzR-cAAAAJ&hl=en&oi=ao",
 										target: "_blank",
 										rel: "noreferrer",
 										children: ["View publications ", /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ArrowRight, { "aria-hidden": "true" })]

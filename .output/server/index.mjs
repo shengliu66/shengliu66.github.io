@@ -16,234 +16,234 @@ globalThis.__nitro_vite_envs__ = services;
 //#endregion
 //#region #nitro/virtual/public-assets-data
 var public_assets_data_default = {
-	"/favicon.ico": {
-		"type": "image/vnd.microsoft.icon",
-		"etag": "\"4203e-6MfU1n5poFoTsMi79bF55tTmMFU\"",
-		"mtime": "2026-09-18T04:10:34.219Z",
-		"size": 270398,
-		"path": "../public/favicon.ico"
-	},
 	"/robots.txt": {
 		"type": "text/plain; charset=utf-8",
 		"etag": "\"a0-CKGXSIe7TSsqDTmGm/nY1t/o5d0\"",
-		"mtime": "2026-09-18T04:10:34.215Z",
+		"mtime": "2026-09-18T07:10:38.103Z",
 		"size": 160,
 		"path": "../public/robots.txt"
 	},
-	"/assets/gallery-BkKiNwq6.js": {
+	"/assets/gallery-DBG82xIl.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"cf2-N7AfpPe0p7LE95f99V17GCErdYQ\"",
-		"mtime": "2026-09-18T04:10:33.720Z",
+		"etag": "\"cf2-qfwUGJq6Avf7ckgRvLNLFwVDCgw\"",
+		"mtime": "2026-09-18T07:10:37.611Z",
 		"size": 3314,
-		"path": "../public/assets/gallery-BkKiNwq6.js"
+		"path": "../public/assets/gallery-DBG82xIl.js"
+	},
+	"/favicon.ico": {
+		"type": "image/vnd.microsoft.icon",
+		"etag": "\"4203e-6MfU1n5poFoTsMi79bF55tTmMFU\"",
+		"mtime": "2026-09-18T07:10:38.105Z",
+		"size": 270398,
+		"path": "../public/favicon.ico"
 	},
 	"/assets/gallery-aida-BY1H5i8C.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"6b283-LStDEv9/YXanTBoKRBvzf4Utk2M\"",
-		"mtime": "2026-09-18T04:10:33.720Z",
+		"mtime": "2026-09-18T07:10:37.612Z",
 		"size": 438915,
 		"path": "../public/assets/gallery-aida-BY1H5i8C.jpg"
-	},
-	"/assets/gallery-diving-C7Q_Mwbl.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"1b39e-houezibnNj3sD9crZWBFZEM94+0\"",
-		"mtime": "2026-09-18T04:10:33.725Z",
-		"size": 111518,
-		"path": "../public/assets/gallery-diving-C7Q_Mwbl.jpg"
-	},
-	"/assets/gallery-galaxy-BrCbzIdZ.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"32f96-g3dGz02UDyqP6q/5lTx0GqJ2920\"",
-		"mtime": "2026-09-18T04:10:33.725Z",
-		"size": 208790,
-		"path": "../public/assets/gallery-galaxy-BrCbzIdZ.jpg"
 	},
 	"/assets/gallery-desk-D9iuLQU6.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"31010-ggEkx36OgE4eBcC5SbvX7OaaLfk\"",
-		"mtime": "2026-09-18T04:10:33.724Z",
+		"mtime": "2026-09-18T07:10:37.624Z",
 		"size": 200720,
 		"path": "../public/assets/gallery-desk-D9iuLQU6.jpg"
 	},
-	"/assets/gallery-tennis-CTbWXhLU.jpg": {
+	"/assets/gallery-diving-C7Q_Mwbl.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"436cf-625IGM+owa5OL4+KD9sTWmBfUss\"",
-		"mtime": "2026-09-18T04:10:33.734Z",
-		"size": 276175,
-		"path": "../public/assets/gallery-tennis-CTbWXhLU.jpg"
+		"etag": "\"1b39e-houezibnNj3sD9crZWBFZEM94+0\"",
+		"mtime": "2026-09-18T07:10:37.624Z",
+		"size": 111518,
+		"path": "../public/assets/gallery-diving-C7Q_Mwbl.jpg"
 	},
 	"/assets/gallery-surf-BkLmvDGm.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"15fbe-7baX5RVAdSsf8iZtLtakj4y0JxA\"",
-		"mtime": "2026-09-18T04:10:33.733Z",
+		"mtime": "2026-09-18T07:10:37.652Z",
 		"size": 90046,
 		"path": "../public/assets/gallery-surf-BkLmvDGm.jpg"
 	},
-	"/assets/news-DaTvM01Y.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"31c-IYQunQP3n6LT+AYoop7PPumu8s0\"",
-		"mtime": "2026-09-18T04:10:33.720Z",
-		"size": 796,
-		"path": "../public/assets/news-DaTvM01Y.js"
+	"/assets/gallery-tennis-CTbWXhLU.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"436cf-625IGM+owa5OL4+KD9sTWmBfUss\"",
+		"mtime": "2026-09-18T07:10:37.653Z",
+		"size": 276175,
+		"path": "../public/assets/gallery-tennis-CTbWXhLU.jpg"
+	},
+	"/assets/gallery-galaxy-BrCbzIdZ.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"32f96-g3dGz02UDyqP6q/5lTx0GqJ2920\"",
+		"mtime": "2026-09-18T07:10:37.624Z",
+		"size": 208790,
+		"path": "../public/assets/gallery-galaxy-BrCbzIdZ.jpg"
 	},
 	"/assets/news-C64oH_3L.js": {
 		"type": "text/javascript; charset=utf-8",
 		"etag": "\"ae8-0nA8B8PVNU2tWajNzij+I6Drx6E\"",
-		"mtime": "2026-09-18T04:10:33.720Z",
+		"mtime": "2026-09-18T07:10:37.611Z",
 		"size": 2792,
 		"path": "../public/assets/news-C64oH_3L.js"
 	},
-	"/assets/research-DGw2AojY.js": {
+	"/assets/news-CP7cbPkS.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"cf84-2maUjA1AgB2/sxhp/E0YzVhPwIo\"",
-		"mtime": "2026-09-18T04:10:33.720Z",
-		"size": 53124,
-		"path": "../public/assets/research-DGw2AojY.js"
+		"etag": "\"31c-wzOmGLmD4s3hbG8hAcLH1hVaHFg\"",
+		"mtime": "2026-09-18T07:10:37.611Z",
+		"size": 796,
+		"path": "../public/assets/news-CP7cbPkS.js"
 	},
-	"/assets/index-UFjXyY31.js": {
+	"/assets/research-Cnc2TXaQ.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"5615d-Sj6G74KrBkWtY0WmtGvwA/VyrIk\"",
-		"mtime": "2026-09-18T04:10:33.720Z",
+		"etag": "\"d106-FyL4rje1QZTTbwbvlAgh0CxabXo\"",
+		"mtime": "2026-09-18T07:10:37.611Z",
+		"size": 53510,
+		"path": "../public/assets/research-Cnc2TXaQ.js"
+	},
+	"/assets/index-BlYCwtjv.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"5615d-QuRmCA3dbXNDQ+yFzVyVG3+Hg/0\"",
+		"mtime": "2026-09-18T07:10:37.611Z",
 		"size": 352605,
-		"path": "../public/assets/index-UFjXyY31.js"
+		"path": "../public/assets/index-BlYCwtjv.js"
 	},
 	"/assets/research-noisy-labels-DmYrKYu_.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"1359a-tdbAKcuEEiPxS63C0QLABHLoALk\"",
-		"mtime": "2026-09-18T04:10:33.741Z",
+		"mtime": "2026-09-18T07:10:37.686Z",
 		"size": 79258,
 		"path": "../public/assets/research-noisy-labels-DmYrKYu_.jpg"
 	},
 	"/assets/research-octotools-DET8eDeg.png": {
 		"type": "image/png",
 		"etag": "\"4eab8-e//6VUBuiX26GD55lT+J2z3xxzs\"",
-		"mtime": "2026-09-18T04:10:33.741Z",
+		"mtime": "2026-09-18T07:10:37.686Z",
 		"size": 322232,
 		"path": "../public/assets/research-octotools-DET8eDeg.png"
 	},
 	"/assets/research_biomedical_discovery-BccQB0LF.png": {
 		"type": "image/png",
 		"etag": "\"ebfe0-gp1+aTSVuS5PgXnHeQqgDAZedho\"",
-		"mtime": "2026-09-18T04:10:33.743Z",
+		"mtime": "2026-09-18T07:10:37.688Z",
 		"size": 966624,
 		"path": "../public/assets/research_biomedical_discovery-BccQB0LF.png"
-	},
-	"/assets/research_cerebra-b-BjXa3BGC.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"6a8dc-t0LLH2+TA+hYQiPjmtn+2N0wSPw\"",
-		"mtime": "2026-09-18T04:10:33.744Z",
-		"size": 436444,
-		"path": "../public/assets/research_cerebra-b-BjXa3BGC.jpg"
-	},
-	"/assets/research_learning_with_segmentation_noise-DIwp0Psw.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"191ae-hb2ixhH28UUFVx5lhmpU2IYeA5o\"",
-		"mtime": "2026-09-18T04:10:33.744Z",
-		"size": 102830,
-		"path": "../public/assets/research_learning_with_segmentation_noise-DIwp0Psw.jpg"
 	},
 	"/assets/research_hallucination-CSncjITN.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"2eef8-60dckg2hbaDjeEq/akBQIlkNQGE\"",
-		"mtime": "2026-09-18T04:10:33.744Z",
+		"mtime": "2026-09-18T07:10:37.690Z",
 		"size": 192248,
 		"path": "../public/assets/research_hallucination-CSncjITN.jpg"
 	},
-	"/assets/routes-BtHerjRs.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"ec9-wHLx61FKWeCBO9dQlpuKLZ0NsKc\"",
-		"mtime": "2026-09-18T04:10:33.720Z",
-		"size": 3785,
-		"path": "../public/assets/routes-BtHerjRs.js"
+	"/assets/research_learning_with_segmentation_noise-DIwp0Psw.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"191ae-hb2ixhH28UUFVx5lhmpU2IYeA5o\"",
+		"mtime": "2026-09-18T07:10:37.690Z",
+		"size": 102830,
+		"path": "../public/assets/research_learning_with_segmentation_noise-DIwp0Psw.jpg"
 	},
 	"/assets/research_text_feedback-Bx5No1wy.png": {
 		"type": "image/png",
 		"etag": "\"4212e-HkOAzi7bIz8MopIrLP9H7ayChZU\"",
-		"mtime": "2026-09-18T04:10:33.746Z",
+		"mtime": "2026-09-18T07:10:37.693Z",
 		"size": 270638,
 		"path": "../public/assets/research_text_feedback-Bx5No1wy.png"
+	},
+	"/assets/research_cerebra-b-BjXa3BGC.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"6a8dc-t0LLH2+TA+hYQiPjmtn+2N0wSPw\"",
+		"mtime": "2026-09-18T07:10:37.688Z",
+		"size": 436444,
+		"path": "../public/assets/research_cerebra-b-BjXa3BGC.jpg"
+	},
+	"/assets/routes-DpKknwXT.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"ec9-5Q2WbHwnGcfm/I5qcOXGkxbZAkI\"",
+		"mtime": "2026-09-18T07:10:37.611Z",
+		"size": 3785,
+		"path": "../public/assets/routes-DpKknwXT.js"
+	},
+	"/assets/gallery-hike-DFGpx2mZ.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"256940-BQOJHCKHPHrLiNFXX7F/hSFLNOw\"",
+		"mtime": "2026-09-18T07:10:37.648Z",
+		"size": 2451776,
+		"path": "../public/assets/gallery-hike-DFGpx2mZ.jpg"
+	},
+	"/assets/sheng-portrait-DEVpR8LH.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"59751-4dNhYd06Yduv1RMiyJKr+Ibk80Q\"",
+		"mtime": "2026-09-18T07:10:37.694Z",
+		"size": 366417,
+		"path": "../public/assets/sheng-portrait-DEVpR8LH.jpg"
+	},
+	"/assets/research_radplan-C_KQN-EK.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"bb7f3-9LT079a4iNu1iZYnr6YVi5kXd+0\"",
+		"mtime": "2026-09-18T07:10:37.692Z",
+		"size": 767987,
+		"path": "../public/assets/research_radplan-C_KQN-EK.jpg"
+	},
+	"/assets/research-cerebra-a-Q9fgzj_v.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"2054bf-o4xenp4cDa2urJ2509JqFOn9TIo\"",
+		"mtime": "2026-09-18T07:10:37.686Z",
+		"size": 2118847,
+		"path": "../public/assets/research-cerebra-a-Q9fgzj_v.jpg"
 	},
 	"/assets/gallery-lotus-CSKx2q1g.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"20317b-VEUa8oEFbtl8kW85UnuzFQgAnls\"",
-		"mtime": "2026-09-18T04:10:33.733Z",
+		"mtime": "2026-09-18T07:10:37.652Z",
 		"size": 2109819,
 		"path": "../public/assets/gallery-lotus-CSKx2q1g.jpg"
 	},
 	"/assets/styles-BZFx0Ud-.css": {
 		"type": "text/css; charset=utf-8",
 		"etag": "\"14bd4-llKjpX5B9a9Wvk2dPoLiUJmhd3w\"",
-		"mtime": "2026-09-18T04:10:33.747Z",
+		"mtime": "2026-09-18T07:10:37.694Z",
 		"size": 84948,
 		"path": "../public/assets/styles-BZFx0Ud-.css"
-	},
-	"/assets/sheng-portrait-DEVpR8LH.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"59751-4dNhYd06Yduv1RMiyJKr+Ibk80Q\"",
-		"mtime": "2026-09-18T04:10:33.747Z",
-		"size": 366417,
-		"path": "../public/assets/sheng-portrait-DEVpR8LH.jpg"
-	},
-	"/assets/research-cerebra-a-Q9fgzj_v.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"2054bf-o4xenp4cDa2urJ2509JqFOn9TIo\"",
-		"mtime": "2026-09-18T04:10:33.740Z",
-		"size": 2118847,
-		"path": "../public/assets/research-cerebra-a-Q9fgzj_v.jpg"
-	},
-	"/assets/gallery-hike-DFGpx2mZ.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"256940-BQOJHCKHPHrLiNFXX7F/hSFLNOw\"",
-		"mtime": "2026-09-18T04:10:33.732Z",
-		"size": 2451776,
-		"path": "../public/assets/gallery-hike-DFGpx2mZ.jpg"
-	},
-	"/assets/research_radplan-C_KQN-EK.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"bb7f3-9LT079a4iNu1iZYnr6YVi5kXd+0\"",
-		"mtime": "2026-09-18T04:10:33.746Z",
-		"size": 767987,
-		"path": "../public/assets/research_radplan-C_KQN-EK.jpg"
 	},
 	"/assets/gallery-travel-CDTs3GQz.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"2a4de2-sEviAiFSz5+ADxDCD5J8CE/sl80\"",
-		"mtime": "2026-09-18T04:10:33.738Z",
+		"mtime": "2026-09-18T07:10:37.671Z",
 		"size": 2772450,
 		"path": "../public/assets/gallery-travel-CDTs3GQz.jpg"
-	},
-	"/assets/gallery-budda-CqUbOnWv.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"541d7c-QeNR0SUm2n+yodYnPF+4EzFms0g\"",
-		"mtime": "2026-09-18T04:10:33.721Z",
-		"size": 5512572,
-		"path": "../public/assets/gallery-budda-CqUbOnWv.jpg"
 	},
 	"/assets/gallery-travel-ca-DNE8Dj-R.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"4fc364-aGvR11JO8eGX5RfhizkNCL9p/Zk\"",
-		"mtime": "2026-09-18T04:10:33.739Z",
+		"mtime": "2026-09-18T07:10:37.680Z",
 		"size": 5227364,
 		"path": "../public/assets/gallery-travel-ca-DNE8Dj-R.jpg"
+	},
+	"/assets/gallery-budda-CqUbOnWv.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"541d7c-QeNR0SUm2n+yodYnPF+4EzFms0g\"",
+		"mtime": "2026-09-18T07:10:37.614Z",
+		"size": 5512572,
+		"path": "../public/assets/gallery-budda-CqUbOnWv.jpg"
 	},
 	"/assets/gallery-city-B4QsIOLs.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"66d016-zqHECdnB/+uqPaoaqh2TjUIl3/4\"",
-		"mtime": "2026-09-18T04:10:33.723Z",
+		"mtime": "2026-09-18T07:10:37.623Z",
 		"size": 6737942,
 		"path": "../public/assets/gallery-city-B4QsIOLs.jpg"
 	},
 	"/assets/gallery-thai-BZywf42F.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"7d5ca8-Rbc/bfnkVBsepbEUvVq3I1TZW+I\"",
-		"mtime": "2026-09-18T04:10:33.736Z",
+		"mtime": "2026-09-18T07:10:37.663Z",
 		"size": 8215720,
 		"path": "../public/assets/gallery-thai-BZywf42F.jpg"
 	},
 	"/assets/gallery-graduate-EKjaB1kV.jpg": {
 		"type": "image/jpeg",
 		"etag": "\"ec0754-572+i7/Y+RuDDU5JxCcKDcJIvGk\"",
-		"mtime": "2026-09-18T04:10:33.729Z",
+		"mtime": "2026-09-18T07:10:37.641Z",
 		"size": 15468372,
 		"path": "../public/assets/gallery-graduate-EKjaB1kV.jpg"
 	}

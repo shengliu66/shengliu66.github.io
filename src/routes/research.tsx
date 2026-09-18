@@ -138,7 +138,7 @@ const impactAreas: ImpactArea[] = [
     selectedWork: [
       { title: "CEREBRA: an agentic AI system for dementia characterization and risk assessment", badge: "Under Review @ Nature Medicine" },
       { title: "Generalizable deep learning model for early Alzheimer's disease detection from structural MRIs", badge: "Scientific Reports", href: "https://www.nature.com/articles/s41598-022-20674-x" },
-       { title: "Time-Series Analysis via Low-Rank Matrix Factorization Applied to Infant-Sleep Data", badge: "NeurIPS", href: "https://arxiv.org/pdf/1904.04780" },
+       { title: "Time-Series Analysis via Low-Rank Matrix Factorization Applied to Infant-Sleep Data", badge: "NeurIPS ML4H", href: "https://arxiv.org/pdf/1904.04780" },
     
     ],
   },
@@ -150,7 +150,9 @@ const impactAreas: ImpactArea[] = [
     visual: "scan" as const,
     image: radplan,
     selectedWork: [
-      { title: "GPT-RadPlan: automated radiotherapy planning with large language models", badge: "Best in Therapy AAPM, Medical Physics", href: "https://scholar.google.com/scholar?q=Sheng+Liu+GPT-RadPlan+radiotherapy" },
+      { title: "GPT-RadPlan: automated radiotherapy planning with large language models", badge: "Physics in Medicine & Biology", href: "https://iopscience.iop.org/article/10.1088/1361-6560/adf02c/meta" },
+      { title: "Automated Treatment Planning Guided By a Context-Aware Foundation Model", badge: "AAPM Best in Physics Therapy", href: "https://aapm.confex.com/aapm/2024am/meetingapp.cgi/Paper/11272" },
+      { title: "A plugin for automated treatment planning in Eclipse TPS based on large language models", badge: "Medical Physics", href: "https://aapm.confex.com/aapm/2024am/meetingapp.cgi/Paper/11272" },
       { title: "TextGrad: Automatic \"Differentiation\" via Text", badge: "Nature", href: "https://arxiv.org/pdf/2406.07496" },
     ],
   },
@@ -323,7 +325,7 @@ function Research() {
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <Button asChild size="sm" className="min-w-36 rounded-sm shadow-none">
-                <a href="https://scholar.google.com/scholar?q=Sheng+Liu" target="_blank" rel="noreferrer">
+                <a href="https://scholar.google.com/citations?user=rzhzR-cAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer">
                   View publications <ArrowRight aria-hidden="true" />
                 </a>
               </Button>
